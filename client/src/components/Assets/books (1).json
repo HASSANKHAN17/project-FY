@@ -1,0 +1,1675 @@
+{
+    "Nursury & KG":[        
+        {
+            "name":"VIKAS APPLE PHONIC (2) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "img":"VIKASAPPLEPHONIC(2)PICTUREBOOK.jpf",
+            "MRP":60
+        },
+        {
+            "name":"VIKAS APPLE PHONIC (3) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEPHONIC(3)PICTUREBOOK.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PHONIC (5) PICTURE BOOK ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONIC(5)PICTUREBOOK.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PICTURE DICTIONARY ",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"VIKASAPPLEPICTUREDICTIONARY.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PATTERNS",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEPATTERNS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE BIG CAPITAL LETTER  ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEBIGCAPITALLETTER.jpg"
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLECURSIVECAPITALLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE SMALL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLECURSIVESMALLLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE MARION CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEMARIONCAPITALLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE MARION SMALL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEMARIONSMALLLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PRINT CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEPRINTCAPITALLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PRINT SMALL LETTERS   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEPRINTSMALLLETTERS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PRINT CAPITAL & SMALL LETTERS   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEPRINTCAPITAL&SMALLLETTERS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER READER (WITH VCD)    ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEPHONICPRIMERREADER(WITHVCD).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.CURSIVE    ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONICPRIMERACTI.CURSIVE.jpg"
+            
+        },
+
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.MARION ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONICPRIMERACTI.MARION.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.PRINT ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONICPRIMERACTI.PRINT.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 0 TO 09 ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLENUMBERS0TO09.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 20  ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLENUMBERS1TO20.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 30  ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLENUMBERS1TO30.jpg"
+            
+        },
+
+{
+            "name":"VIKAS APPLE NUMBERS 1 TO 50  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLENUMBERS1TO50.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 100  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLENUMBERS1TO100.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE RHYMES & SONGS A (WITH VCD  ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLERHYMES&SONGSA(WITHVCD.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE GK & CONVERSATION A (WITH VCD)   ",
+            "price":65,
+            "quantity":1,
+            "MRP":70,
+            "img":"VIKASAPPLEGK&CONVERSATIONA(WITHVCD).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE GK & CONVERSATION B (WITH VCD)   ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLEGK&CONVERSATIONB(WITHVCD).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CHARTS   ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKASAPPLECHARTS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE DRAWING A",
+            "price":40,
+            "quantity":1,
+            "MRP":45,
+            "img":"VIKASAPPLEDRAWINGA.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE DRAWING B",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEDRAWINGB.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE DRAWING C",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEDRAWINGC.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CRAFT A",
+            "price":42,
+            "quantity":1,
+            "MRP":45,
+            "img":"VIKASAPPLECRAFTA.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CRAFT B",
+            "price":52,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKASAPPLECRAFTB.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE ENGLISH ACTIVITY BOOK - A",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEENGLISHACTIVITYBOOK-A.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE ENGLISH ACTIVITY BOOK - B",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEENGLISHACTIVITYBOOK-B.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-20",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEMathsACTIVITYBOOK1-20.jpg"
+            
+        },
+
+{
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-50",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEMathsACTIVITYBOOK1-50.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-100",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEMathsACTIVITYBOOK1-100.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE E.V.S. ACTIVITY BOOK - A",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEE.V.S.ACTIVITYBOOK-A.jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE E.V.S. ACTIVITY BOOK - B",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLEE.V.S.ACTIVITYBOOK-B.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE CAPITAL & SMALL LETTERS",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLECURSIVECAPITAL&SMALLLETTERS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI BADE AKSHAR (SWAR)",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEHINDIBADEAKSHAR(SWAR).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI BADE AKSHAR (VYANJAN)",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLEHINDIBADEAKSHAR(VYANJAN).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI AKSHAR LEKHAN ",
+            "price":99,
+            "quantity":1,
+            "MRP":105,
+            "img":"VIKASAPPLEHINDIAKSHARLEKHAN.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI SHABDA PRAVESH ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKASAPPLEHINDISHABDAPRAVESH.jpeg"
+           
+        },
+        {
+            "name":"VIKAS APPLE HINDI SHABDA LEKHAN ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEHINDISHABDALEKHAN.jpeg"
+           
+        },
+        {
+            "name":"VIKAS APPLE TICK TOCK TABLES (1-10)  ",
+            "price":36,
+            "quantity":1,
+            "MRP":40,
+            "img":"VIKASAPPLETICKTOCKTABLES(1-10).jpg"
+            
+        }, 
+        {
+            "name":"VIKAS APPLE TICK TOCK TABLES (1-20)  ",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"VIKASAPPLETICKTOCKTABLES(1-20).jpg"
+            
+        }, 
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 1 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASGOLDENGRAMMARBOOK-1.jpg"
+            
+        }, 
+        {
+            "name":"SMART W.B.BALBHARATI (E) I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.BALBHARATI(E)I.jpg"
+            
+        }, 
+        {
+            "name":"SMART W.B.MATHEMATICS (E) I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.MATHEMATICS(E)I.jpg"
+            
+        },
+        {
+            "name":"NAVNEET GENERAL KNOWLEDGE - I  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"NAVNEETGENERALKNOWLEDGE-I.jpg"
+            
+        },
+        {
+            "name":"NAVNEET GENERAL KNOWLEDGE - I  ",
+            "price":65,
+            "quantity":1,
+            "MRP":70,
+            "img":"NAVNEETGENERALKNOWLEDGE-I.jpg"
+            
+        },
+        {
+            "name":"NAVNEET EVS EDUCATION BK 1  ",
+            "price":95,
+            "quantity":1,
+            "MRP":100,
+            "img":"NAVNEETEVSEDUCATIONBK1.jpg"
+            
+        },
+        {
+            "name":"NAVNEET EVS EDUCATION BK 2  ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"NAVNEETEVSEDUCATIONBK2.jpg"
+            
+        },
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 2 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASGOLDENGRAMMARBOOK-2.jpg"
+            
+        },
+        {
+            "name":"SMART W.B.BALBHARATI (E) II  ",
+            "price":110,
+            "quantity":1,
+            "MRP":120,
+            "img":"SMARTW.B.BALBHARATI(E)II.webp"
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) II   ",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"SMARTW.B.MATHEMATICS(E)II.jpg"
+            
+        },
+        {
+            "name":"SMART W.B.BALBHARATI (E) III   ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.BALBHARATI(E)III.jpg"
+            
+        },
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 3    ",
+            "price":85,
+            "quantity":1,
+            "MRP":90,
+            "img":"VIKASGOLDENGRAMMARBOOK-3.jpg"
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) III   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"SMARTW.B.MATHEMATICS(E)III.jpg"
+        }
+
+    ],
+        "Class I": [
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 1 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASGOLDENGRAMMARBOOK-1"
+            
+        } ,
+        {
+            "name":"SMART W.B.BALBHARATI (E) I",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.BALBHARATI(E)I"
+            
+        } ,
+        {
+            "name":"SMART W.B.MATHEMATICS(E)I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.MATHEMATICS(E)I"
+            
+        },
+        {
+            "name":"NAVNEET GENERAL KNOWLEDGE - I  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"NAVNEETGENERALKNOWLEDGE-I"
+            
+        },
+        {
+            "name":"EnglishBalbhartione ",
+            "price":42,
+            "quantity":1,
+            "MRP":42,
+            "img":"Englishbalbhartione"
+        
+        },
+    
+        {
+            "name":"Mathematicsone ",
+            "price":46,
+            "quantity":1,
+            "MRP":46,
+            "img":"Mathemsaticsone"
+        
+        },
+        {
+            "name":"Marathione ",
+            "price":31,
+            "quantity":1,
+            "MRP":31,
+            "img":"Marathione"
+        
+        }
+    ],
+        "Class II":[
+        {
+            "name":"NAVNEET EVS EDUCATION BK 1  ",
+            "price":95,
+            "quantity":1,
+            "MRP":100,
+            "img":"NAVNEETEVSEDUCATIONBK1"
+            
+        },
+        
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 2 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASGOLDENGRAMMARBOOK-2"
+            
+        },
+        {
+            "name":"SMART W.B.BALBHARATI (E) II  ",
+            "price":110,
+            "quantity":1,
+            "MRP":120,
+            "img":"SMARTW.B.BALBHARATI(E)II"
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) II   ",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"SMARTW.B.MATHEMATICS(E)II"
+            
+        },
+        {
+            "name":"EnglishBalbhartitwo ",
+            "price":51,
+            "quantity":1,
+            "MRP":51,
+            "img":"Englishbalbhartitwo"
+        
+        },
+        {
+            "name":"Mathematicstwo ",
+            "price":52,
+            "quantity":1,
+            "MRP":52,
+            "img":"mathematicstwo"
+        
+        },
+        {
+            "name":"Marathitwo ",
+            "price":31,
+            "quantity":1,
+            "MRP":31,
+            "img":"Marathitwo "
+        
+        }
+    ],
+        "Class III":[
+        {
+            "name":"SMART W.B.BALBHARATI (E) III   ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.BALBHARATI(E)III"
+            
+        },
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 3    ",
+            "price":85,
+            "quantity":1,
+            "MRP":90,
+            "img":"VIKASGOLDENGRAMMARBOOK-3"
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) III   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"SMARTW.B.MATHEMATICS(E)III"
+
+        },
+    {
+        "name":"SMART W.B.EVS-1(SCIENCE)(E) III   ",
+        "price":65,
+        "quantity":1,
+        "MRP":70,
+        "img":"SMARTW.B.EVS-1(SCIENCE)(E)III"
+
+    },
+    {
+        "name":"EnglishBalbhartithree ",
+        "price":39,
+        "quantity":1,
+        "MRP":39,
+        "img":"EnglishBalbhartithreejpeg"
+    
+    },
+    {
+        "name":"Mathematicsthree ",
+        "price":39,
+        "quantity":1,
+        "MRP":39,
+        "img":"Mathematicsthree "
+    
+    },
+    {
+        "name":"Marathithree",
+        "price":24,
+        "quantity":1,
+        "MRP":24,
+        "img":"Marathithree "
+    
+    },
+    {
+        "name":"EVSTHREE ",
+        "price":72,
+        "quantity":1,
+        "MRP":72,
+        "img":"EVSTHREE "
+    
+    }
+
+],
+"Class IV ": [
+{
+    "name":"SMART W.B.EVS-1(SCIENCE)(E) IV  ",
+    "price":55,
+    "quantity":1,
+    "MRP":60,
+    "img":"SMARTW.B.EVS-1(SCIENCE)(E)IV"
+
+},
+{
+    "name":"SMART W.B.MATHEMATICS (E) IV  ",
+    "price":99,
+    "quantity":1,
+    "MRP":100,
+    "img":"SMARTW.B.MATHEMATICS(E)IV"
+
+},
+
+{
+    "name":"SMART W.B.BALBHARATI (E) IV ",
+    "price":99,
+    "quantity":1,
+    "MRP":110,
+    "img":"SMARTW.B.BALBHARATI(E)IV"
+
+},
+
+{
+    "name":"SMART WB.EVS-II (HISTORY)(E)IV ",
+    "price":75,
+    "quantity":1,
+    "MRP":80,
+    "img":"SMARTWB.EVS-II(HISTORY)(E)IV"
+
+},
+{
+    "name":"SMART W.B.EVS-1(GEOG.) (E) IV ",
+    "price":75,
+    "quantity":1,
+    "MRP":80,
+    "img":"SMARTW.B.EVS-1(GEOG.)(E)IV"
+
+},
+{
+    "name":"SMART W.B.MARATHI SULABHBHARATI IV ",
+    "price":85,
+    "quantity":1,
+    "MRP":90,
+    "img":"SMARTW.B.MARATHISULABHBHARATIIV"
+
+},
+{
+    "name":"VIKAS GOLDEN GRAMMAR BOOK - 4 ",
+    "price":85,
+    "quantity":1,
+    "MRP":90,
+    "img":"VIKASGOLDENGRAMMARBOOK-4"
+
+},
+{
+    "name":"Englishfour ",
+    "price":39,
+    "quantity":1,
+    "MRP":39,
+    "img":"Englishfour "
+
+},
+{
+    "name":"Mathematicsfour",
+    "price":39,
+    "quantity":1,
+    "MRP":39,
+    "img":"Mathematicsfour "
+
+},
+{
+    "name":"Marathifour",
+    "price":24,
+    "quantity":1,
+    "MRP":24,
+    "img":"Marathifour "
+
+},
+{
+    "name":"EVSOnefour",
+    "price":59,
+    "quantity":1,
+    "MRP":59,
+    "img":"EVSOneFour "
+
+}
+],
+"Class V": [
+    {
+        "name":"VIKAS GOLDEN GRAMMAR BOOK - 5 ",
+        "price":85,
+        "quantity":1,
+        "MRP":90,
+        "img":"VIKASGOLDENGRAMMARBOOK-5"
+
+    },
+    {
+        "name":"VIKAS GOLDEN GRAMMAR BOOK - 5 ",
+        "price":85,
+        "quantity":1,
+        "MRP":90,
+        "img":"VIKASGOLDENGRAMMARBOOK-5"
+
+    },
+    {
+        "name":"EVSOnefive",
+        "price":57,
+        "quantity":1,
+        "MRP":57,
+        "img":"EVSOnefive "
+    
+    },
+    {
+        "name":"EVStwofive",
+        "price":28,
+        "quantity":1,
+        "MRP":28,
+        "img":"EVSTWOfive "
+    
+    },
+    {
+        "name":"Englishfive",
+        "price":40,
+        "quantity":1,
+        "MRP":40,
+        "img":"Englishfive"
+    
+    },
+    {
+        "name":"Mathematicsfive",
+        "price":36,
+        "quantity":1,
+        "MRP":36,
+        "img":"Mathematicsfive"
+    
+    },
+    {
+        "name":"Marathifive",
+        "price":25,
+        "quantity":1,
+        "MRP":25,
+        "img":"Marathisfive"
+    
+    },
+    {
+        "name":"Hindifive",
+        "price":25,
+        "quantity":1,
+        "MRP":25,
+        "img":"Hindifive"
+    
+    }
+],
+
+"Class VI ": [
+    {
+        "name":"Hindi6 ",
+        "price":54,
+        "quantity":1,
+        "MRP":60,
+        "img":"hindi6jpeg"
+    },
+      
+   { "name":"Generalscience6",
+    "price":99,
+    "quantity":1,
+    "MRP":105,
+    "img":"hindi6jpeg"
+
+   },
+{ "name":"Mathematics6",
+    "price":99,
+    "quantity":1,
+    "MRP":105,
+    "img":"Mathematics6jpeg "
+
+},
+{ "name":"Geography6",
+    "price":60,
+    "quantity":1,
+    "MRP":65,
+    "img":"Geography6jpeg "
+
+},
+{ "name":"Historyandcivics6",
+    "price":95,
+    "quantity":1,
+    "MRP":100,
+    "img":"Historyandcivic6 "
+
+},
+{ "name":"Marathi6",
+    "price":65,
+    "quantity":1,
+    "MRP":70,
+    "img":"marathi6 "
+
+},
+{ "name":"Englishbalbharti6",
+    "price":95,
+    "quantity":1,
+    "MRP":100,
+    "img":"Englishbalbharti6jpeg "
+
+},
+{
+    "name":"EnglishSIX",
+    "price":25,
+    "quantity":1,
+    "MRP":25,
+    "img":"Englishsix"
+
+},
+{
+    "name":"MathematicsSIX",
+    "price":41,
+    "quantity":1,
+    "MRP":41,
+    "img":"Mathematicssix"
+
+},
+{
+    "name":"Generalsciencesix",
+    "price":51,
+    "quantity":1,
+    "MRP":51,
+    "img":"Generalscience6jpeg"
+
+},
+{
+    "name":"Historyandcivics",
+    "price":37,
+    "quantity":1,
+    "MRP":37,
+    "img":"Historyandcivics"
+
+},
+{
+    "name":"Geographysix",
+    "price":33,
+    "quantity":1,
+    "MRP":33,
+    "img":"Geographysix"
+
+},
+{
+    "name":"Hindisix",
+    "price":27,
+    "quantity":1,
+    "MRP":27,
+    "img":"Hindisix"
+
+},
+{
+    "name":"Marathisix",
+    "price":27,
+    "quantity":1,
+    "MRP":27,
+    "img":"Marathisix"
+
+}
+],
+"Class VII":[
+    { "name":"Historyandcivics7",
+        "price":105,
+        "quantity":1,
+        "MRP":115,
+        "img":"Historyandcivic7jpeg "
+    
+    },
+    { "name":"Hindisulabhbharti7",
+        "price":55,
+        "quantity":1,
+        "MRP":60,
+        "img":"Hindisulabhbharti7jpeg "
+    
+    },
+    { "name":"Englishbalbharti7",
+        "price":95,
+        "quantity":1,
+        "MRP":100,
+        "img":"Englishbalbharti7jpeg "
+    
+    },
+    { "name":"Marathisulabhbharti7",
+        "price":60,
+        "quantity":1,
+        "MRP":65,
+        "img":"Marathisulabhbharti7jpeg "
+    
+    },
+    { "name":"Geography7",
+        "price":80,
+        "quantity":1,
+        "MRP":85,
+        "img":"Geography7jpeg "
+    
+    },
+    { "name":"Mathematics7",
+        "price":85,
+        "quantity":1,
+        "MRP":90,
+        "img":"Mathematics7jpeg "
+    
+    },
+    { "name":"Generalscience7",
+        "price":140,
+        "quantity":1,
+        "MRP":150,
+        "img":"Generalscience7jpeg "
+    
+    },
+    {
+        "name":"Marathiseven",
+        "price":28,
+        "quantity":1,
+        "MRP":28,
+        "img":"Marathi7JPEG"
+    
+    },
+    {
+        "name":"Hindiseven",
+        "price":28,
+        "quantity":1,
+        "MRP":28,
+        "img":"Hindi7jpeg"
+    
+    },
+    {
+        "name":"Englishseven",
+        "price":46,
+        "quantity":1,
+        "MRP":46,
+        "img":"English7JPEG"
+    
+    },
+    {
+        "name":"Mathematicsseven",
+        "price":41,
+        "quantity":1,
+        "MRP":41,
+        "img":"Mathematics7jpeg"
+    
+    },
+    {
+        "name":"Generalscienceseven",
+        "price":57,
+        "quantity":1,
+        "MRP":57,
+        "img":"Generalscience7jpeg"
+    
+    },
+    {
+        "name":"Historyandcivicsseven",
+        "price":40,
+        "quantity":1,
+        "MRP":40,
+        "img":"Historyandcivic7jpeg"
+    
+    },
+    {
+        "name":"Geographyseven",
+        "price":38,
+        "quantity":1,
+        "MRP":38,
+        "img":"Geography7jpeg"
+    
+    }
+],
+
+    "Class VIII":[
+        { "name":"Marathisulabhbharti8",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"Marathisulabhbharti8jpeg "
+        
+        },
+        { "name":"Hindisulabhbharti8",
+            "price":85,
+            "quantity":1,
+            "MRP":90,
+            "img":"HindiSulabhbharti8jpeg "
+        
+        }, 
+        { "name":"Englshbalbharti8",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"Englishbalbharti8jpeg "
+        
+        },
+        { "name":"Historyandcivics8",
+            "price":155,
+            "quantity":1,
+            "MRP":165,
+            "img":"Historyandcivicsi8jpeg "
+        
+        },
+        { "name":"Generalscience8",
+            "price":199,
+            "quantity":1,
+            "MRP":210,
+            "img":"Generalscience8jpeg "
+        
+        },
+        { "name":"Mathematics8",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"Mathematicseightjpeg "
+        
+        },
+        {
+            "name":"Englisheight",
+            "price":49,
+            "quantity":1,
+            "MRP":49,
+            "img":"EnglishEight"
+        
+        },
+        
+        {
+            "name":"Mathematicseight",
+            "price":48,
+            "quantity":1,
+            "MRP":48,
+            "img":"Mathematicseight"
+        
+        },
+        {
+            "name":"Generalscienceeight",
+            "price":60,
+            "quantity":1,
+            "MRP":60,
+            "img":"Generalscienceeightjpeg"
+        
+        },
+        {
+            "name":"Historyandcivicseight",
+            "price":42,
+            "quantity":1,
+            "MRP":42,
+            "img":"Historyandcivicsi8jpeg"
+        
+        },
+        {
+            "name":"Geographyeight",
+            "price":38,
+            "quantity":1,
+            "MRP":38,
+            "img":"Geography8jpeg"
+        
+        },
+        {
+            "name":"Marathieight",
+            "price":30,
+            "quantity":1,
+            "MRP":30,
+            "img":"Marathieightjpeg"
+        
+        },
+        {
+            "name":"Hindieight",
+            "price":30,
+            "quantity":1,
+            "MRP":30,
+            "img":"Hindieight"
+        
+        }],
+        
+        "Class IX":[
+            { "name":"Hindilokbharti9",
+                "price":140,
+                "quantity":1,
+                "MRP":150,
+                "img":"Hindilokbharti9jpeg "
+            
+            },
+            { "name":"Marathiaksharbharti9",
+                "price":99,
+                "quantity":1,
+                "MRP":110,
+                "img":"class9marathi "
+            
+            },
+            { "name":"Englishkumarbharti9",
+                "price":140,
+                "quantity":1,
+                "MRP":150,
+                "img":"englishclass9 "
+            
+            },
+            { "name":"Historyandpolaticalscience9",
+                "price":120,
+                "quantity":1,
+                "MRP":125,
+                "img":"historyandpoliclass9 "
+            
+            },
+            { "name":"Geography9",
+                "price":95,
+                "quantity":1,
+                "MRP":100,
+                "img":"geographyclass9 "
+            
+            },
+            {
+                "name":"Hindinine",
+                "price":50,
+                "quantity":1,
+                "MRP":50,
+                "img":"Hindinine"
+            
+            },
+            {
+                "name":"Englishnine",
+                "price":65,
+                "quantity":1,
+                "MRP":65,
+                "img":"Englishnine"
+            
+            },
+            {
+                "name":"Marathinine",
+                "price":48,
+                "quantity":1,
+                "MRP":48,
+                "img":"Marathi9JPEG"
+            
+            },
+            {
+                "name":"Mathematicspartoneinine",
+                "price":64,
+                "quantity":1,
+                "MRP":64,
+                "img":"Mathematicspartoneinine"
+            
+            },
+            {
+                "name":"Mathematicsparttwoinine",
+                "price":61,
+                "quantity":1,
+                "MRP":61,
+                "img":"Mathematicsparttwoinine"
+            
+            },
+            {
+                "name":"HistoryandCivicsnine",
+                "price":54,
+                "quantity":1,
+                "MRP":54,
+                "img":"Historyandcivic9JPEG"
+            
+            },
+            {
+                "name":"Geographynine",
+                "price":58,
+                "quantity":1,
+                "MRP":58,
+                "img":"Geography9JPEG"
+            
+            },
+            {
+                "name":"Scienceandtechnologynine",
+                "price":107,
+                "quantity":1,
+                "MRP":107,
+                "img":"Scienceandtechnologypartoneten"
+            
+            }
+        ],
+
+            "Class X":[
+
+            { "name":"Marathi aksharbharti",
+                "price":110,
+                "quantity":1,
+                "MRP":120,
+                "img":"Marathiaksharbharti10jpeg"
+            
+            },
+            { "name":"Hindi lokbharti",
+                "price":165,
+                "quantity":1,
+                "MRP":175,
+                "img":"Hindilokbharti10jpeg"
+            
+            },
+            { "name":"History and polatical science",
+                "price":140,
+                "quantity":1,
+                "MRP":150,
+                "img":"Historyandpolaticsten"
+            
+            },
+            { "name":"Geography",
+                "price":95,
+                "quantity":1,
+                "MRP":100,
+                "img":"Geographyten"
+            
+            },
+            { "name":"English kumarbharti",
+                "price":210,
+                "quantity":1,
+                "MRP":225,
+                "img":"Englishkumarbharti10jpeg"
+            
+            },
+            {
+                "name":"English",
+                "price":73,
+                "quantity":1,
+                "MRP":73,
+                "img":"Englishten"
+            
+            },
+            {
+                "name":"Science and technology Part One",
+                "price":75,
+                "quantity":1,
+                "MRP":75,
+                "img":"scienceandtechnologypartoneten"
+            
+            },
+            {
+                "name":"Science and technology Part Two",
+                "price":65,
+                "quantity":1,
+                "MRP":65,
+                "img":"Scienceandtechnologyparttwoten"
+            
+            },
+            {
+                "name":"Mathematics part one",
+                "price":80,
+                "quantity":1,
+                "MRP":80,
+                "img":"Mathematicspartoneten"
+            
+            },
+            {
+                "name":"Mathematics part two",
+                "price":74,
+                "quantity":1,
+                "MRP":74,
+                "img":"Mathematicsparttwoten"
+            
+            },
+            {
+                "name":"History and civic",
+                "price":56,
+                "quantity":1,
+                "MRP":56,
+                "img":"Historyandcivic10jpeg"
+            
+            },
+            {
+                "name":"Marathi",
+                "price":48,
+                "quantity":1,
+                "MRP":48,
+                "img":"Marathiten"
+            }
+        ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Class XI":[
+{
+    "name":"English",
+    "price":93,
+    "quantity":1,
+    "MRP":98,
+    "img":"englishclass11"
+
+},
+{
+    "name":"Marathi",
+    "price":93,
+    "quantity":1,
+    "MRP":98,
+    "img":"marathiclass11"
+    
+},
+{
+    "name":"Hindi",
+    "price":93,
+    "quantity":1,
+    "MRP":98,
+    "img":"hindiclass11"
+}
+
+],
+"Class XI Science":[
+{
+    "name":"Mathematics and Statistics Part One",
+    "price":122,
+    "quantity":1,
+    "MRP":128,
+    "img":"class11mands"
+
+},
+{
+    "name":"Mathematics and Statistics Part Two",
+    "price":120,
+    "quantity":1,
+    "MRP":122,
+    "img":"class11mands2"
+
+},
+{
+    "name":"Physics",
+    "price":145,
+    "quantity":1,
+    "MRP":145,
+    "img":"Physics11"
+
+},
+{
+    "name":"Chemistry",
+    "price":154,
+    "quantity":1,
+    "MRP":154,
+    "img":"Chemistry11"
+
+},
+{
+    "name":"Biology",
+    "price":127,
+    "quantity":1,
+    "MRP":127,
+    "img":"Biology11"
+
+}],
+"Class XII Science Practical Book":[
+    {
+        "name":"Physics Practical Notebook",
+        "price":87,
+        "quantity":1,
+        "MRP":91,
+        "img":"PhysicsPracticalNotebookXII"
+    },
+    {
+        "name":"Chemistry Practical Notebook",
+        "price":73,
+        "quantity":1,
+        "MRP":77,
+        "img":"ChemistryPracticalNotebookXII"
+    },
+    {
+        "name":"Biology Practical Notebook",
+        "price":80,
+        "quantity":1,
+        "MRP":82,
+        "img":"BiologyPracticalNotebook"
+    },
+    
+    {
+        "name":"Environment Project Workbook",
+        "price":30,
+        "quantity":1,
+        "MRP":30,
+        "img":"EnvironmentProjectwork"
+    }
+   
+],
+"Sundaram Practical Notebook":[{
+    "name":"Sundaram Practical Notebook 100pgs",
+    "price":45,
+    "quantity":1,
+    "MRP":55,
+    "img":"SundaramPracticalnotebook"
+},
+{
+    "name":"Sundaram Practical Notebook 200pgs",
+    "quantity":1,
+    "MRP":95,
+    "price":80,
+    "img":"SundaramPracticalnotebook"
+}
+],
+"Practical Instrument":[
+    {
+        "name":"HIMEDIA MetaLoop SS-4",
+        "quantity":1,
+        "MRP":150,
+        "price":110,
+        "img":"NicromeloopsHolder"
+    },
+    {
+        "name":"Nicrome Loops Holder",
+        "quantity":1,
+        "MRP":120,
+        "price":19,
+        "img":"NicromeloopsHolder"
+    }
+
+],
+"Writeups":[
+    {
+        "name":"Deogiri Write Up Paper One Sided Pack of 100",
+        "quantity":1,
+        "MRP":70,
+        "price":65,
+        "img":"Deogiriwriteuppaperoneside"
+    },
+    {
+        "name":"Deogiri Write Up Paper Two Sided Pack of 100",
+        "quantity":1,
+        "MRP":50,
+        "price":40,
+        "img":"Deogiriwriteuppapertwoside"
+    },
+    {
+        "name":"Practical Paper One Sided Pack of 100",
+        "quantity":1,
+        "MRP":45,
+        "price":40,
+        "img":"Theorypaperoneside"
+    },
+    {
+        "name":"Practical Paper Two Sided Pack of 100",
+        "quantity":1,
+        "MRP":50,
+        "price":45,
+        "img":"Theorypapertwoside"
+    }  
+],
+"Class XI Arts Marathi Medium":[
+
+        {
+            "name":"Polatical Science",
+            "price":65.00,
+            "quantity":1,
+            "MRP":68.00,
+            "img":"class11political"
+
+        },
+        {
+            "name":"Socialogy ",
+            "price":72.00,
+            "quantity":1,
+            "MRP":76.00,
+            "img":"class11sociology"
+
+        },
+        {
+            "name":"Child Development",
+            "price":106.00,
+            "quantity":1,
+            "MRP":111.00,
+            "img":"class11childdevelopment"
+
+        },
+        {
+            "name":"Psychology",
+            "price":80.00,
+            "quantity":1,
+            "MRP":84.00,
+            "img":"class11psychology"
+
+        },
+        {
+            "name":"Economics",
+            "price":57.00,
+            "quantity":1,
+            "MRP":60.00,
+            "img":"class11economics"
+
+        },
+        {
+            "name":"Education",
+            "price":60.00,
+            "quantity":1,
+            "MRP":63.00,
+            "img":"class11education"
+
+        }],
+        
+        "Class XI Commerce English Medium":[
+        {
+            "name":"Bookkeeping and accountancy",
+            "price":190.00,
+            "quantity":1,
+            "MRP":203.00,
+            "img":"class11bka"
+
+        },
+        {
+            "name":"Economics",
+            "price":57,
+            "quantity":1,
+            "MRP":60,
+            "img":"class11eco"
+
+        },
+        {
+            "name":"Co-Operation",
+            "price":84,
+            "quantity":1,
+            "MRP":88,
+            "img":"class11coop"
+
+        },
+        
+        {
+            "name":"Organisation of Commerce and Managment",
+            "price":105,
+            "quantity":1,
+            "MRP":111,
+            "img":"class11ocm"
+
+        }],
+        "Class12th":[
+        {
+            "name":"Englsh",
+            "price":99,
+            "quantity":1,
+            "MRP":104,
+            "img":"class12english"
+
+        },
+        {
+            "name":"Marathi",
+            "price":99,
+            "quantity":1,
+            "MRP":104,
+            "img":"class12marathi"
+
+        },
+        {
+            "name":"Hindi",
+            "price":99,
+            "quantity":1,
+            "MRP":104,
+            "img":"class12hindi"
+
+        }],
+        "Class12th Science ": [
+        {
+            "name":"Mathematics and statistics Part One",
+            "price":139,
+            "quantity":1,
+            "MRP":146,
+            "img":"class12mathandstats1"
+
+        },
+        {
+            "name":"Mathematics and Statistics Part Two",
+            "price":143,
+            "quantity":1,
+            "MRP":150,
+            "img":"class12mathandstats2"
+
+        },
+        {
+            "name":"Physics",
+            "price":184,
+            "quantity":1,
+            "MRP":193,
+            "img":"class12physics"
+
+        },
+        {
+            "name":"Chemistry",
+            "price":179,
+            "quantity":1,
+            "MRP":187,
+            "img":"class12chemistry"
+
+        },
+        {
+            "name":"Biology",
+            "price":175,
+            "quantity":1,
+            "MRP":184,
+            "img":"class12biology"
+
+        },
+        {
+            "name":"Information and Technology",
+            "price":71,
+            "quantity":1,
+            "MRP":75,
+            "img":"class12it"
+
+        }]
+
+                    }
+
+
+                    

@@ -1,0 +1,133 @@
+@import "../../App.scss";
+.sectioncard{
+.row{
+    margin: 0 10%;
+    transition: 1s;
+    .shadow-lg{
+        background-image: linear-gradient(315deg, #03c4a1 0%, #3dfdda 74%);
+
+        margin: 3% 1%;
+        padding: 2% 0;
+        border-radius: 5%;
+        text-align: center;
+        h3{
+            font-size: 2.5em;
+            margin-top: 2%;
+            text-align: center;
+        }
+        img{
+            width: 30%;
+            }
+    }
+    .shadow-lg:hover{
+        img{
+            transition: 1s;
+            transform: scale(1.2);
+        }
+     
+      
+    
+    cursor: pointer;
+    background-image: linear-gradient(315deg, #00fcce 0%, #a5fded 74%);
+
+    }
+}
+}
+
+.cardDetail{
+    h1{
+        text-align: center;
+        font-size: 6em;
+        margin-top: 1%;
+    }
+    text-align: center;
+    .carddiv{
+        padding-bottom: 6% !important;
+        background-color: white;
+        img{
+background-image:url('./copy.png');
+background-repeat: no-repeat;
+            height: 50%;
+            width: 50%;
+        }
+        img:hover{
+            transition: .2s;
+        transform: scale(3);
+        }
+        margin: 3% 3%;
+        padding: 2% 2%;
+        h4{
+            font-family: $primaryfont;
+            font-size: 1.5em;
+            margin-top: 5%;
+            font-weight: bold;
+        }
+      
+        .price{
+            font-size: 1.3em;
+            font-weight: bold;
+            color:#333333
+        }
+        .discount{
+            font-family: $secondaryfont;
+            text-decoration: line-through;
+            color: #aaaa;
+        }
+        .blackbutton{
+            padding:3% 20%;
+        }
+    }
+    .displaycount{
+        font-size: 1.2em;
+        font-weight: bold;
+        padding: 2% 0;
+        color: green;
+    }
+}
+
+
+@media (max-width: 992px) {
+.cardDetail{
+    .row{
+        .carddiv{
+            padding-bottom: 15% !important;
+        }
+    }
+}
+}
+@media (max-width: 768px) {
+    .cardDetail{
+        h1{
+            font-size: 3.3em;
+        }
+        .row{
+            margin: auto 10%;
+            .carddiv{
+                padding-bottom: 35% !important;
+                h4{
+                    font-size: 2em;
+                }
+                padding: 10%;
+            }
+        }
+    }
+
+}
+@media (max-width: 576px) {
+    .cardDetail{
+        h1{
+            font-size: 3.3em;
+        }
+        .row{
+            margin: auto 10%;
+            .carddiv{
+                padding-bottom: 35% !important;
+                h4{
+                    font-size: 2em;
+                }
+                padding: 10%;
+            }
+        }
+    }
+
+}

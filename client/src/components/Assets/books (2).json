@@ -1,0 +1,400 @@
+
+{
+"camlin Notebook hard bond ":[
+    {
+        "name":"camlin unrules notebook 164 pages",
+        "price":30,
+        "quantity":1,
+        "MRP":35,
+        "img":"camlinunrulesnotebook164pages"
+
+    },
+
+    {
+        "name":"camlin single line notebook 72 pages",
+        "price":18,
+        "quantity":1,
+        "MRP":20,
+        "img":"camlinsinglelinenotebook72pages"
+
+    },
+    {
+        "name":"camlin double line notebook 72pages",
+        "price":18,
+        "quantity":1,
+        "MRP":20,
+        "img":"camlindoublelinenotebook72pages"
+
+    },
+    {
+        "name":"camlin double linenote book 164 pages",
+        "price":30,
+        "quantity":1,
+        "MRP":35,
+        "img":"camlindoublelinenotebook164pages"
+
+           },
+           {
+            "name":"camlin fourline notebook 72 pages",
+            "price":18,
+            "quantity":1,
+            "MRP":20,
+            "img":"camlinfourlinenotebook72pages"
+           },
+           {
+          "name":"camlin fourline notebook 164 pages",
+          "price":30,
+          "quantity":1,
+          "MRP":35,
+           "img":"camlinfourlinenotebook164pages"
+            },
+
+                      {
+                "name":"camlin unrules notebook 88 pages",
+                "price":15,
+                "quantity":1,
+                "MRP":17,
+                "img":"camlinunrulesnotebook88pages"
+    
+            },
+            {
+                "name":"camlin unrules notebook 164 pages",
+                "price":24,
+                "quantity":1,
+                "MRP":28,
+                "img":"camlinunrulesnotebook164pages"
+    
+            },      
+            {
+                "name":"camlin singleline notebook 88 pages",
+                "price":15,
+                "quantity":1,
+                "MRP":17,
+                "img":"camlinusinglelinenotebook88pages"
+    
+            },
+            {
+                "name":"camlin singleline notebook 164 pages",
+                "price":24,
+                "quantity":1,
+                "MRP":28,
+                "img":"camlinsinglelinenotebook164pages"
+    
+            },   
+            {
+                "name":"camlin double line notebook 88 pages",
+                "price":15,
+                "quantity":1,
+                "MRP":17,
+                "img":"camlindoublelinenotebook88pages"
+    
+            },  
+            {
+                "name":"camlin double line notebook 164 pages",
+                "price":24,
+                "quantity":1,
+                "MRP":28,
+                "img":"camlindoublelinenotebook164pages"
+    
+            },   
+            {
+                "name":"camlin four line notebook 164 pages",
+                "price":24,
+                "quantity":1,
+                "MRP":28,
+                "img":"camlinfourlinenotebook164pages"
+    
+            },   
+            {
+                "name":"camlin four line notebook 88 pages",
+                "price":15,
+                "quantity":1,
+                "MRP":17,
+                "img":"camlinfourlinenotebook88pages"
+    
+            },   
+            {
+                "name":"camlin medium square line notebook 164 pages",
+                "price":24,
+                "quantity":1,
+                "MRP":28,
+                "img":"camlinmediumsquarelinenotebook164pagesjpeg"
+    
+            },   
+            {
+                "name":"camlin medium square line notebook 88 pages",
+                "price":15,
+                "quantity":1,
+                "MRP":17,
+                "img":"camlinmediumsquarelinenotebook88pages"
+    
+            },  
+            {
+                "name":"camlinjumbo A5 soft singleline notebook 172 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinjumboa5softsinglelinenotebook172pages"
+    
+            },  
+
+            {
+                "name":"camlin JumboA5 soft fourline notebook 172 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinjumboa5softfourlinenotebook172pages"
+    
+            }, 
+            {
+                "name":"camlin Jumbo A5soft medium Square line notebook 172 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinjumboa5softmediumsquarelinenotebook172pages"
+    
+            }, 
+            {
+                "name":"camlin A5size Hardbond singleline notebook 164 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinA5sizehardbondsinglelinenotebook164pages"
+    
+            }, 
+            {
+                "name":"camlin A5 Size softbond unrules notebook100 pages",
+                "price":27,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA5sizesoftbondunrulesnotebook100pages"
+    
+            }, 
+            {
+                "name":"camlin A5 size soft bond unrules notebook 180pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinA5sizesoftbondunrulesnotebook180pages"
+    
+            }, 
+            {
+                "name":"camlin A5 size soft bond singleline notebook 180 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinA5sizesoftbondsinglelinenotebook180pages"
+    
+            },
+            {
+                "name":"camlin A5 size softbond Single line notebook 100pages",
+                "price":27,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA5sizesoftbondsinglelinenotebook100pages"
+    
+            },
+            {
+                "name":"camlin A5 Size softbond double line notebook 100 pages",
+                "price":27,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA5sizesoftbonddoublelinenotebook100pages"
+    
+            },
+            {
+                "name":"camlin A5 size softbond double line notebook 180 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinA5sizesoftbonddoublelinenotebook180pages"
+    
+            },
+            {
+                "name":"camlin A5 size softbond fourline notebook 180 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinA5sizesoftbondfourlinenotebook180pages"
+    
+            },
+            {
+                "name":"camlin A5 size softbond fourline notebook 100 pages",
+                "price":27,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA5sizesoftbondfourlinenotebook100pages"
+    
+            },
+            {
+                "name":"camlin A5 size softbond medium squreline notebook 180 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinA5sizesoftbondmediumlinenotebook180pages"
+    
+            },
+            {
+                "name":"camlin A5 size softbond medium squreline notebook 100 pages",
+                "price":27,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA5sizesoftbondmediumlinenotebook100pages"
+    
+            },
+            {
+                "name":"camlin A4 size hardbond notebook 144 pages",
+                "price":60,
+                "quantity":1,
+                "MRP":70,
+                "img":"camlinA4sizehardbondnotebook144pages"
+    
+            },
+            {
+                "name":"camlin A4 size hardbond notebook 172 pages",
+                "price":75,
+                "quantity":1,
+                "MRP":85,
+                "img":"camlinA4sizehardbondnotebook172pages"
+    
+            },
+            {
+                "name":"camlin A4 size softbond unruled notebook 72 pages",
+                "price":25,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA4sizesoftbondunrulednotebook72pages"
+    
+            },
+            {
+                "name":"camlin A4 size softbond unruled notebook 292 pages",
+                "price":100,
+                "quantity":1,
+                "MRP":110,
+                "img":"camlinA4sizesoftbondunrulednotebook292pages"
+    
+            },
+
+            {
+                "name":"camlin A4 size softbond singleline notebook 72 pages",
+                "price":25,
+                "quantity":1,
+                "MRP":30,
+                "img":"camlinA4sizesoftbondusinglelinenotebook72pages"
+    
+            },
+            {
+                "name":"camlin A4 size softbond singleline notebook 172 pages",
+                "price":60,
+                "quantity":1,
+                "MRP":65,
+                "img":"camlinA4sizesoftbondusinglelinenotebook172pages"
+    
+            },
+            {
+                "name":"camlin  A4size softbond singleline notebook 392 pages",
+                "price":135,
+                "quantity":1,
+                "MRP":150,
+                "img":"camlinA4sizesoftbondusinglelinenotebook392pages"
+    
+            },
+            {
+                "name":"camlin A4size softbond singleline premion otebook 152 pages",
+                "price":60,
+                "quantity":1,
+                "MRP":65,
+                "img":"camlinA4sizesoftbondusinglelinepremionotebook152pages"
+    
+            },
+            {
+                "name":"camlin A4size softbond singleline premio notebook 200 pages",
+                "price":70,
+                "quantity":1,
+                "MRP":80,
+                "img":"camlinA4sizesoftbondusinglelinepremionotebook200pages"
+    
+            },
+            {
+                "name":"camlinultra softbond unruled line longbook 112 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinultrasoftbonduunruledlinelongbook112pages"
+    
+            },
+            {
+                "name":"camlinultra soft bond unrules line longbook 304 pages",
+                "price":115,
+                "quantity":1,
+                "MRP":130,
+                "img":"camlinultrasoftbonduunruledlinelongbook304pages"
+    
+            },
+            {
+                "name":"camlin ultra softbondu singleline longbook 112 pages",
+                "price":45,
+                "quantity":1,
+                "MRP":50,
+                "img":"camlinultrasoftbondusinglelinelongbook112pages"
+    
+            },
+            {
+                "name":"camlinultra softbond single linel ongbook 240 pages",
+                "price":90,
+                "quantity":1,
+                "MRP":100,
+                "img":"camlinultrasoftbondusinglelinelongbook240pages"
+    
+            },
+            {
+                "name":"camlinultra soft bondu single line longbook 304 pages",
+                "price":115,
+                "quantity":1,
+                "MRP":130,
+                "img":"camlinultrasoftbondusinglelinelongbook304pages"
+    
+            },
+            {
+                "name":"camlin premio wiro single linebook B5 b160 pages",
+                "price":130,
+                "quantity":1,
+                "MRP":140,
+                "img":"camlinpremiowirosinglelinebookB5160pages"
+    
+            },
+            {
+                "name":"camlin premio wiro single line book B5 160 pages",
+                "price":130,
+                "quantity":1,
+                "MRP":140,
+                "img":"camlinpremiowirosinglelinebookB5160pages"
+    
+            },
+            {
+                "name":"camlin premio wiro singleline Note book B5 160 pages",
+                "price":130,
+                "quantity":1,
+                "MRP":140,
+                "img":"camlinpremiowirosinglelinebookB5160pages"
+    
+            },
+            {
+                "name":"camlin spiral book 192pages",
+                "price":55,
+                "quantity":1,
+                "MRP":60,
+                "img":"camlinspiralbook192pages"
+    
+            },
+            {
+                "name":"camlin spiral book A4size 192 pages",
+                "price":80,
+                "quantity":1,
+                "MRP":85,
+                "img":"camlinspiralbooka4size192pages"
+    
+            }
+
+             ]
+}

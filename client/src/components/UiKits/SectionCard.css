@@ -1,0 +1,124 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.sectioncard .row {
+  margin: 0 10%;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.sectioncard .row .shadow-lg {
+  margin: 3% 1%;
+  padding: 2% 0;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.sectioncard .row .shadow-lg h3 {
+  font-size: 2.5em;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.sectioncard .row .shadow-lg img {
+  width: 30%;
+}
+
+.sectioncard .row .shadow-lg:hover {
+  cursor: pointer;
+  background-image: linear-gradient(315deg, #bdd4e73d 0%, #8693ab41 74%);
+}
+
+.sectioncard .row .shadow-lg:hover img {
+  -webkit-transition: 1s;
+  transition: 1s;
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.cardDetail {
+  text-align: center;
+}
+
+.cardDetail h1 {
+  text-align: center;
+  font-size: 6em;
+}
+
+.cardDetail .carddiv {
+  padding-bottom: 5% !important;
+  margin: 3% 3%;
+  padding: 2% 2%;
+  border: 1px solid #ccca;
+}
+
+.cardDetail .carddiv img {
+  background-image: url("./copy.png");
+  background-repeat: no-repeat;
+  height: 50%;
+  width: 50%;
+}
+
+.cardDetail .carddiv img:hover {
+  -webkit-transition: .2s;
+  transition: .2s;
+  -webkit-transform: scale(3);
+          transform: scale(3);
+}
+
+.cardDetail .carddiv h4 {
+  font-family: "Playfair Display", serif;
+  font-size: 1.5em;
+  margin-top: 5%;
+  font-weight: bold;
+}
+
+.cardDetail .carddiv .price {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #333333;
+}
+
+.cardDetail .carddiv .discount {
+  font-family: "Open Sans", sans-serif;
+  text-decoration: line-through;
+  color: #aaaa;
+  margin-bottom: 0;
+}
+
+.cardDetail .carddiv .blackbutton {
+  padding: 3% 20%;
+}
+
+.cardDetail .displaycount {
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 2% 0;
+  color: green;
+}
+
+@media (max-width: 576px) {
+  .cardDetail h1 {
+    font-size: 3.3em;
+  }
+  .cardDetail .row {
+    margin: auto 10%;
+  }
+  .cardDetail .row .carddiv {
+    padding: 10%;
+  }
+  .cardDetail .row .carddiv h4 {
+    font-size: 2em;
+  }
+}
+/*# sourceMappingURL=SectionCard.css.map */

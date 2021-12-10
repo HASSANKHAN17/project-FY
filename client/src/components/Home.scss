@@ -1,0 +1,252 @@
+@import "../App.scss";
+
+::-webkit-scrollbar{
+    width:10px;
+}
+
+::-webkit-scrollbar-track{
+    background:#C0FEFC !important;
+}
+
+
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(to bottom,#daf6ff 1%, #2aa39f 40%,#daf6ff);
+    opacity:0.2;
+    border-radius:25px
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background:#2aa39f;
+}
+.homeonediv{
+    .backimg{
+        position: relative;
+
+    }
+   
+    #alpine{
+        width: 40%;
+    }
+   h1{
+    text-align: center;
+    font-family: $primaryfont;
+    font-size: 5.5em;
+    font-weight: 700;
+    background: -webkit-linear-gradient(45deg,#000000, #8a8a8afd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   }
+   .homeheadcards{
+background-image: linear-gradient(315deg, #03c4a1 0%, #3dfdda 74%);
+transition: .2s;
+
+   }
+   .headingpara{
+       font-size: 2em;
+       font-weight: lighter;
+       text-align: center;
+   }
+   .shopnowdiv{
+       text-align: center;
+        img{
+        width: 20%;
+        }
+        h2{
+            margin: 3% 0 2% 0;
+            font-size: 3em;
+        }
+        .row{
+            margin: 0 10%;
+            transition: 1s;
+
+            .shadow-lg{
+                margin: 0 auto;
+                padding: 5% 0;
+                border-radius: 5%;
+                h3{
+                    font-size: 2.5em;
+                    margin-top: 2%;
+                    color: -webkit-linear-gradient(45deg,#000000, #8a8a8afd);
+                    font-weight: 400;
+                 
+                }
+            }
+            .shadow-lg:hover{
+                transition: .2s;
+
+                cursor: pointer;
+                background-image: linear-gradient(315deg, #00fcce 0%, #a5fded 74%);
+                img{
+                    transition: .5s;
+                    transform: scale(1.2);
+                }
+             h3{
+                background: -webkit-linear-gradient(#000000, #25657efd);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+             }
+              
+            }
+        }
+    }
+
+    .trendingitemsdiv{
+        h2{
+            text-align: center;
+            font-size: 4em;
+            margin: 10% 0 4% 0;
+        }
+        .row{
+            background-image: linear-gradient(315deg, #0444793d 0%, #9cb0d641 74%);
+            .col3{
+                padding:3% 10%;
+                h6{
+                    font-size: 1.4em;
+                }
+                p:nth-of-type(1){
+                    color:black;
+                    font-weight: bolder;
+                    margin-bottom: 0;
+                }
+                p:nth-of-type(2){
+                    color:rgb(110, 110, 110);
+                    text-decoration:line-through;
+                }
+                .displaycount{
+                    font-size: 1.2em;
+                    font-weight: bold;
+                    padding: 2% 0;
+                    color: green;
+                }
+                background-color: white;
+                padding: 3%;
+                margin: 2% 1%;
+                text-align: center;
+                border-radius: 1%;
+                height: 100%;
+                width: 100%;
+
+            }
+        }
+        .countRow {
+            display: flex;
+          flex-wrap: nowrap;
+          overflow: scroll;
+        }
+    }
+
+    .brief{
+        h2{
+            text-align: center;
+            font-size: 4em;
+            margin: 10% 0 2% 0;
+        }
+        p{
+            font-weight: 100;
+            margin: 0 30%;
+            text-align: center;
+        }
+    }
+
+    .customers{
+        h2{
+            text-align: center;
+            font-size: 4em;
+            margin: 10% 0 2% 0;
+        }
+        .row{
+            margin: 3% 5%;
+            .col-xl-3{
+                margin: 0 auto;
+                text-align: center;
+                padding: 3%;
+                h4{
+                    font-size: 2em;
+                }
+                h6{
+                    color: $tertiary-color;
+                }
+                p{
+                    font-weight: 100;
+                    text-align: justify;
+                    margin-top: 2%;
+                }
+               
+            }
+        }
+        
+    }
+
+}
+
+
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+
+}
+@media (max-width: 576px) {
+    .homeonediv{
+        h1{
+            font-size: 3.3em;
+        }
+        .headingpara{
+            font-size: 1.5em;
+        }
+        .shopnowdiv{
+       
+            .heading{
+                font-size: 1.9em;
+            }
+            .row{
+            .homeheadcards{
+                margin-top: 10%;
+                h3{
+                    font-size: 2.1em;
+                }
+            }
+        }
+        }
+        .trendingitemsdiv{
+            h2{
+                font-size: 2.8em;
+            }
+            .row{
+                .col3{
+                    margin: 3% 10%;
+                    background-color: white;
+                    padding: 1% 10%;
+                    text-align: center;
+                    border-radius: 1%;
+                    height: auto;
+                    width: auto;
+                }
+
+                
+            }
+        }
+        .brief{
+            h2{
+                font-size: 3.0em;
+            }
+            p{
+                margin: 3% 5%;
+            }
+        }
+        .customers{
+            h2{
+                font-size: 2.8em;
+            }
+            .row{
+                
+            .col-xl-3{
+            margin-top: 10%;   
+            padding:10%;
+            }
+            }
+        }
+    }
+    
+}

@@ -1,0 +1,19 @@
+$primaryfont:'Playfair Display', serif;//'Amatic SC', cursive;
+$secondaryfont:'Open Sans', sans-serif;
+$primary-color:#01d28e;
+$secondary-color:#000;
+$tertiary-color:#ffff;
+
+body{
+    color: #006141;
+}
+
+h1{
+    font-family: $primaryfont;
+}
+h2,h3,h4{
+    font-family: $primaryfont;
+}
+p,span{
+    font-family: $secondaryfont;
+}

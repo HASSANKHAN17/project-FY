@@ -1,0 +1,215 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #C0FEFC !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #daf6ff), color-stop(40%, #2aa39f), to(#daf6ff));
+  background: linear-gradient(to bottom, #daf6ff 1%, #2aa39f 40%, #daf6ff);
+  opacity: 0.2;
+  border-radius: 25px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2aa39f;
+}
+
+.homeonediv .backimg {
+  position: relative;
+}
+
+.homeonediv #alpine {
+  width: 40%;
+}
+
+.homeonediv h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: 5.5em;
+  font-weight: 700;
+  background: -webkit-linear-gradient(45deg, #000000, #8a8a8afd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.homeonediv .homeheadcards {
+  background-image: linear-gradient(315deg, #0444793d 0%, #9cb0d641 74%);
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+.homeonediv .headingpara {
+  font-size: 2em;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.homeonediv .shopnowdiv {
+  text-align: center;
+}
+
+.homeonediv .shopnowdiv img {
+  width: 20%;
+}
+
+.homeonediv .shopnowdiv h2 {
+  margin: 3% 0 2% 0;
+  font-size: 3em;
+}
+
+.homeonediv .shopnowdiv .row {
+  margin: 0 10%;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.homeonediv .shopnowdiv .row .shadow-lg {
+  margin: 0 auto;
+  padding: 5% 0;
+  border-radius: 5%;
+}
+
+.homeonediv .shopnowdiv .row .shadow-lg h3 {
+  font-size: 2.5em;
+  margin-top: 2%;
+  color: #1d1d1d;
+  font-weight: lighter;
+}
+
+.homeonediv .shopnowdiv .row .shadow-lg:hover {
+  -webkit-transition: .2s;
+  transition: .2s;
+  cursor: pointer;
+  background-image: linear-gradient(315deg, #9cb0d6b2 0%, #002e5398 74%);
+}
+
+.homeonediv .shopnowdiv .row .shadow-lg:hover img {
+  -webkit-transition: .5s;
+  transition: .5s;
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.homeonediv .shopnowdiv .row .shadow-lg:hover h3 {
+  background: -webkit-linear-gradient(#000000, #25657efd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.homeonediv .trendingitemsdiv h2 {
+  text-align: center;
+  font-size: 4em;
+  margin: 10% 0 4% 0;
+}
+
+.homeonediv .trendingitemsdiv .row {
+  background-image: linear-gradient(315deg, #0444793d 0%, #9cb0d641 74%);
+  padding: 3%;
+}
+
+.homeonediv .trendingitemsdiv .row .col-2 {
+  background-color: #eff9fc85;
+  padding: 3% 0;
+  margin: 0 1%;
+  text-align: center;
+  border-radius: 1%;
+}
+
+.homeonediv .brief h2 {
+  text-align: center;
+  font-size: 4em;
+  margin: 10% 0 2% 0;
+}
+
+.homeonediv .brief p {
+  font-weight: 100;
+  margin: 0 30%;
+  text-align: center;
+}
+
+.homeonediv .customers h2 {
+  text-align: center;
+  font-size: 4em;
+  margin: 10% 0 2% 0;
+}
+
+.homeonediv .customers .row {
+  margin: 3% 5%;
+}
+
+.homeonediv .customers .row .col-xl-3 {
+  margin: 0 auto;
+  text-align: center;
+  padding: 3%;
+}
+
+.homeonediv .customers .row .col-xl-3 h4 {
+  font-size: 2em;
+}
+
+.homeonediv .customers .row .col-xl-3 h6 {
+  color: #969696;
+}
+
+.homeonediv .customers .row .col-xl-3 p {
+  font-weight: 100;
+  text-align: justify;
+  margin-top: 2%;
+}
+
+@media (max-width: 576px) {
+  .homeonediv h1 {
+    font-size: 3.3em;
+  }
+  .homeonediv .headingpara {
+    font-size: 1.5em;
+  }
+  .homeonediv .shopnowdiv .heading {
+    font-size: 1.9em;
+  }
+  .homeonediv .shopnowdiv .row .homeheadcards {
+    margin-top: 10%;
+  }
+  .homeonediv .shopnowdiv .row .homeheadcards h3 {
+    font-size: 2.1em;
+  }
+  .homeonediv .trendingitemsdiv {
+    overflow-x: auto;
+  }
+  .homeonediv .trendingitemsdiv h2 {
+    font-size: 2.8em;
+  }
+  .homeonediv .trendingitemsdiv .row .col-2 {
+    margin: 0 auto;
+  }
+  .homeonediv .brief h2 {
+    font-size: 3.0em;
+  }
+  .homeonediv .brief p {
+    margin: 3% 5%;
+  }
+  .homeonediv .customers h2 {
+    font-size: 2.8em;
+  }
+  .homeonediv .customers .row .col-xl-3 {
+    margin-top: 10%;
+    padding: 10%;
+  }
+}
+/*# sourceMappingURL=Home.css.map */

@@ -1,0 +1,469 @@
+{
+    "Nursury & KG":[        
+        {
+            "name":"VIKAS APPLE PHONIC (2) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "img":"VIKASAPPLEPHONIC(2)PICTUREBOOK.jpf",
+            "MRP":60
+        },
+        {
+            "name":"VIKAS APPLE PHONIC (3) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEPHONIC(3)PICTUREBOOK.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PHONIC (5) PICTURE BOOK ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONIC(5)PICTUREBOOK.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PICTURE DICTIONARY ",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"VIKASAPPLEPICTUREDICTIONARY.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PATTERNS",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEPATTERNS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE BIG CAPITAL LETTER  ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEBIGCAPITALLETTER.jpg"
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLECURSIVECAPITALLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE SMALL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLECURSIVESMALLLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE MARION CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEMARIONCAPITALLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE MARION SMALL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEMARIONSMALLLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PRINT CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEPRINTCAPITALLETTERS.jpg"
+        },
+        {
+            "name":"VIKAS APPLE PRINT SMALL LETTERS   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEPRINTSMALLLETTERS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PRINT CAPITAL & SMALL LETTERS   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLEPRINTCAPITAL&SMALLLETTERS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER READER (WITH VCD)    ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEPHONICPRIMERREADER(WITHVCD).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.CURSIVE    ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONICPRIMERACTI.CURSIVE.jpg"
+            
+        },
+
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.MARION ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONICPRIMERACTI.MARION.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.PRINT ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEPHONICPRIMERACTI.PRINT.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 0 TO 09 ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLENUMBERS0TO09.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 20  ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLENUMBERS1TO20.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 30  ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLENUMBERS1TO30.jpg"
+            
+        },
+
+{
+            "name":"VIKAS APPLE NUMBERS 1 TO 50  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLENUMBERS1TO50.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 100  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLENUMBERS1TO100.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE RHYMES & SONGS A (WITH VCD  ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLERHYMES&SONGSA(WITHVCD.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE GK & CONVERSATION A (WITH VCD)   ",
+            "price":65,
+            "quantity":1,
+            "MRP":70,
+            "img":"VIKASAPPLEGK&CONVERSATIONA(WITHVCD).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE GK & CONVERSATION B (WITH VCD)   ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLEGK&CONVERSATIONB(WITHVCD).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CHARTS   ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKASAPPLECHARTS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE DRAWING A",
+            "price":40,
+            "quantity":1,
+            "MRP":45,
+            "img":"VIKASAPPLEDRAWINGA.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE DRAWING B",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEDRAWINGB.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE DRAWING C",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEDRAWINGC.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CRAFT A",
+            "price":42,
+            "quantity":1,
+            "MRP":45,
+            "img":"VIKASAPPLECRAFTA.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CRAFT B",
+            "price":52,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKASAPPLECRAFTB.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE ENGLISH ACTIVITY BOOK - A",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKASAPPLEENGLISHACTIVITYBOOK-A.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE ENGLISH ACTIVITY BOOK - B",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEENGLISHACTIVITYBOOK-B.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-20",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEMathsACTIVITYBOOK1-20.jpg"
+            
+        },
+
+{
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-50",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEMathsACTIVITYBOOK1-50.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-100",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEMathsACTIVITYBOOK1-100.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE E.V.S. ACTIVITY BOOK - A",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKASAPPLEE.V.S.ACTIVITYBOOK-A.jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE E.V.S. ACTIVITY BOOK - B",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLEE.V.S.ACTIVITYBOOK-B.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE CAPITAL & SMALL LETTERS",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKASAPPLECURSIVECAPITAL&SMALLLETTERS.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI BADE AKSHAR (SWAR)",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEHINDIBADEAKSHAR(SWAR).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI BADE AKSHAR (VYANJAN)",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASAPPLEHINDIBADEAKSHAR(VYANJAN).jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI AKSHAR LEKHAN ",
+            "price":99,
+            "quantity":1,
+            "MRP":105,
+            "img":"VIKASAPPLEHINDIAKSHARLEKHAN.jpg"
+            
+        },
+        {
+            "name":"VIKAS APPLE HINDI SHABDA PRAVESH ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKASAPPLEHINDISHABDAPRAVESH.jpeg"
+           
+        },
+        {
+            "name":"VIKAS APPLE HINDI SHABDA LEKHAN ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEHINDISHABDALEKHAN.jpeg"
+           
+        },
+        {
+            "name":"VIKAS APPLE TICK TOCK TABLES (1-10)  ",
+            "price":36,
+            "quantity":1,
+            "MRP":40,
+            "img":"VIKASAPPLETICKTOCKTABLES(1-10).jpg"
+            
+        }, 
+        {
+            "name":"VIKAS APPLE TICK TOCK TABLES (1-20)  ",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"VIKASAPPLETICKTOCKTABLES(1-20).jpg"
+            
+        }, 
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 1 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASGOLDENGRAMMARBOOK-1.jpg"
+            
+        }, 
+        {
+            "name":"SMART W.B.BALBHARATI (E) I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.BALBHARATI(E)I.jpg"
+            
+        }, 
+        {
+            "name":"SMART W.B.MATHEMATICS (E) I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.MATHEMATICS(E)I.jpg"
+            
+        },
+        {
+            "name":"NAVNEET GENERAL KNOWLEDGE - I  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"NAVNEETGENERALKNOWLEDGE-I.jpg"
+            
+        },
+        {
+            "name":"NAVNEET GENERAL KNOWLEDGE - I  ",
+            "price":65,
+            "quantity":1,
+            "MRP":70,
+            "img":"NAVNEETGENERALKNOWLEDGE-I.jpg"
+            
+        },
+        {
+            "name":"NAVNEET EVS EDUCATION BK 1  ",
+            "price":95,
+            "quantity":1,
+            "MRP":100,
+            "img":"NAVNEETEVSEDUCATIONBK1.jpg"
+            
+        },
+        {
+            "name":"NAVNEET EVS EDUCATION BK 2  ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"NAVNEETEVSEDUCATIONBK2.jpg"
+            
+        },
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 2 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKASGOLDENGRAMMARBOOK-2.jpg"
+            
+        },
+        {
+            "name":"SMART W.B.BALBHARATI (E) II  ",
+            "price":110,
+            "quantity":1,
+            "MRP":120,
+            "img":"SMARTW.B.BALBHARATI(E)II.webp"
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) II   ",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"SMARTW.B.MATHEMATICS(E)II.jpg"
+            
+        },
+        {
+            "name":"SMART W.B.BALBHARATI (E) III   ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMARTW.B.BALBHARATI(E)III.jpg"
+            
+        },
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 3    ",
+            "price":85,
+            "quantity":1,
+            "MRP":90,
+            "img":"VIKASGOLDENGRAMMARBOOK-3.jpg"
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) III   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"SMARTW.B.MATHEMATICS(E)III.jpg"
+        }
+
+    ]
+
+}

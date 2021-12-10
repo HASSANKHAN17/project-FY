@@ -1,0 +1,193 @@
+@import "../../App.scss";
+[type="radio"]:checked,
+[type="radio"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+[type="radio"]:checked + label,
+[type="radio"]:not(:checked) + label
+{
+    position: relative;
+    padding-left: 28px;
+    cursor: pointer;
+    line-height: 20px;
+    display: inline-block;
+    color: #666;
+}
+[type="radio"]:checked + label:before,
+[type="radio"]:not(:checked) + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 18px;
+    height: 18px;
+    border: 1px solid rgba(184, 184, 184, 0.667);
+    border-radius: 100%;
+    background: #fff;
+}
+[type="radio"]:checked + label:after,
+[type="radio"]:not(:checked) + label:after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: #01aa72;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+[type="radio"]:not(:checked) + label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+[type="radio"]:checked + label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.cartdiv{
+    .cartitemsdiv{
+        .item{
+            
+        }
+    }
+    .sorrymessage{
+        text-align: center;
+        margin: 5% 0;
+        font-family: $secondaryfont;
+    }
+    h1{
+        text-align: center;
+        font-size: 6em;
+    }
+    .head{
+        padding: 5% 15%;
+
+    }
+    .heading{
+        text-align: center;
+        h2{
+        font-weight: bolder;
+        font-size: 2.5em;
+        color: white;
+        }
+        background-color: #01aa72;
+        padding: 3px 0;
+
+    }
+    .item{
+        text-align: center;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+        padding:.5% 0 ;
+        h2{
+            font-weight: 400;
+            font-size: 1.5em;
+            font-family: $secondaryfont;
+        }
+        .arrows{
+            transition: .2s;
+        }
+        .arrows:hover{
+            color: black !important;
+            cursor: pointer;
+        }
+    }
+    .bill{
+        text-align: left;
+        padding:0 15%;
+        .blackbutton{
+            padding: 1% 7%;
+        }
+        .total{
+            font-size: 2.5em !important;
+        }
+        h1{
+        text-align: left;
+        font-size: 1.8em;
+        font-family: $primaryfont;
+        font-weight: lighter;
+        span{
+            font-weight: lighter;
+        }
+        }
+        .total{
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        .discount{
+            span{
+            color: green;
+            }
+        }
+    }
+    .trashcan{
+        font-size: 1.5em;
+        color: #ccc;
+        transition: .2s;
+    }
+    .trashcan:hover{
+        color: black;
+    }
+    .miniform{
+        margin-left: 5%;
+        input,textarea{
+            display: block;
+            border: 1px solid #ccc;
+            width: 50%;
+            padding: 1%;
+        }
+        label{
+            margin-top: 1%;
+
+        }
+    }
+    .heading1,.heading2{
+        font-family: $primaryfont;
+        font-size: 2em;
+        margin-top: 3%;
+    }
+
+}
+
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+
+}
+@media (max-width: 576px) {
+    .cartdiv{
+        h1{
+            font-size: 3em;
+        }
+        .cartitemsdiv{
+            .head{
+                margin: 5% 10%;
+                padding: 0;
+                .row{
+                    .col-4,.col-2{
+                        h2{
+                            font-size: 1.5em;
+                        }
+                    }
+                }
+                .item{
+                    .col-2{
+                        .trashcan{
+                            font-size: 1.2em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}

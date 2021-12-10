@@ -1,0 +1,23 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.contactusdiv h1 {
+  text-align: center;
+  font-size: 4em;
+}
+
+.contactusdiv textarea {
+  display: block;
+  width: 100%;
+}
+/*# sourceMappingURL=ContactUs.css.map */

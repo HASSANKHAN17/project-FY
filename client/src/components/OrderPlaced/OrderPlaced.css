@@ -1,0 +1,37 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.orderplaced {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.orderplaced h1 {
+  font-size: 3em;
+}
+
+.orderplaced button {
+  padding: 1% 2%;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+.orderplaced button:hover {
+  -webkit-box-shadow: 1px 1px 20px 2px #ccc;
+          box-shadow: 1px 1px 20px 2px #ccc;
+}
+
+.orderplaced img {
+  margin-bottom: 1%;
+}
+/*# sourceMappingURL=OrderPlaced.css.map */

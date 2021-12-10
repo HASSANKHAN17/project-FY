@@ -1,0 +1,12 @@
+@import "../../App.scss";
+
+
+.signupdiv{
+    .errorinput{
+        border: 2px solid red;
+    }
+    .errorinput:focus{
+        outline: none;
+        border: 2px solid red;
+    }
+}

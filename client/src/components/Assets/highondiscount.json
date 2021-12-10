@@ -1,0 +1,111 @@
+{
+    "highondiscount":[
+        {
+            "name":"VIKAS APPLE PHONIC (3) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKASAPPLEPHONIC(3)PICTUREBOOK"
+        },
+        {
+            "name":"Trimax Red",
+            "price":43,
+            "quantity":1,
+            "img":"trimaxred",
+            "MRP":50
+        },
+        {
+            "name":"Cello AVENGERS FOUNTAIN PENS. ",
+            "price":46,
+            "quantity":1,
+            "MRP":50,
+            "img":"celloAVENGERSFOUNTAINPENS"
+
+        },
+        {
+            "name":"Apsara Pop Eraser (Pack of 50 piece)",
+            "price":225,
+            "quantity":1,
+            "MRP":250,
+             "img":"apsarapoperaser"
+        },
+        {
+            "name":"Wooden Exam Board",
+            "price":105,
+            "quantity":1,
+            "MRP":125,
+            "img":"youvawoodenboard"
+        }
+    ],
+    "trendingitems":[
+        
+            {
+                "name":"Trimax Blue",
+                "price":43,
+                "quantity":1,
+                "img":"trimax",
+                "MRP":50
+            },  {
+                "name":"My Apsara Kit",
+                "price":420,
+                "quantity":1,
+                "MRP":500,
+                 "img":"myapsarakit"
+            }, {
+                "name":"Avengers Kit",
+                "price":26,
+                "quantity":1,
+                "MRP":30,
+                 "img":"avengerskit"
+            },  {
+                "name":"My Apsara Kit",
+                "price":420,
+                "quantity":1,
+                "MRP":500,
+                 "img":"myapsarakit"
+            }, {
+                "name":"camlin double line notebook 72pages",
+                "price":18,
+                "quantity":1,
+                "MRP":20,
+                "img":"camlisinglelinenotebook72pages"
+        
+            }
+        
+    ],
+    "mostboughtitem":[
+        {
+            "name":"camlin A4 size hardbond notebook 144 pages",
+            "price":60,
+            "quantity":1,
+            "MRP":70,
+            "img":"camlinA4sizehardbondnotebook144pages"
+
+        },{ "name":"English kumarbharti 10",
+            "price":210,
+            "quantity":1,
+            "MRP":225,
+            "img":"Englishkumarbharti10jpeg"
+        
+        },{
+            "name":"camlin Jumbo A5soft medium Square line notebook 172 pages",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"camlinjumboa5softmediumsquarelinenotebook172pages"
+
+        }, {
+            "name":"Apsara Platinum (Pack of 10 Pencil)",
+            "price":45,
+            "quantity":1,
+           "MRP":50,
+           "img":"apsarapaltinum"
+        }, {
+            "name":"Apsara Absolute Scale 30cm",
+            "price":22,
+            "quantity":1,
+            "MRP":25,
+             "img":"apsaraabsolutescale30cm"
+        }
+    ]
+}

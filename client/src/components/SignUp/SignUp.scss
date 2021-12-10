@@ -1,0 +1,109 @@
+@import "../../App.scss";
+
+.whitebutton{
+    padding: 1.5% 10%;
+    background-color: white;
+    outline: none;
+    border: 1.5px solid black;
+    font-family: $secondaryfont;
+}
+.whitebutton:hover{
+    background-color: black;
+    color: white;
+}
+.whitebutton:focus{
+    outline: none;
+}
+.blackbutton{
+    background-image: linear-gradient(to right, #1D976C 0%, #93F9B9  51%, #1D976C  100%);
+}
+.blackbutton{
+    margin: 10px auto;
+    padding: 10px 60px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    outline: none;
+    border: none;
+    font-weight: bolder;
+}
+.blackbutton:hover{
+ cursor: pointer;
+ background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+}
+.blackbutton:focus{
+    outline: none;
+}
+
+.signupdiv{
+    h1{
+        text-align: center;
+        font-size: 4em;
+        font-weight: bold;
+        margin-top: 3%;
+    }
+
+    .signupcontent{
+        margin: 1% 20%;
+        padding:4% 5%;
+        text-align: center;
+        input{
+            width: 100%;
+            padding: 2% 2%;
+            font-family: $secondaryfont;
+        }
+        label{
+            font-family: $secondaryfont;
+            font-size: 1.2em;
+            font-weight: lighter;
+        }
+        ::placeholder { 
+            /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: #cccf;
+            opacity: 1; /* Firefox */
+          }
+        .col-xl-6{
+            margin:2% auto;
+            text-align: left;
+        }
+        .col-12{
+            margin:2% auto;
+        }
+    }
+}
+
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+
+}
+@media (max-width: 576px) {
+    .signupdiv{
+       
+    
+        .signupcontent{
+            margin: 1% 5%;
+            padding:4% 5%;
+            text-align: center;
+            input{
+                width: 100%;
+                padding: 2% 2%;
+                font-family: $secondaryfont;
+            }
+            
+        }
+        .blackbutton{
+            margin: 5% 0;
+        }
+    }
+
+}

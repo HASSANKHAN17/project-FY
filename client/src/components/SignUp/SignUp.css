@@ -1,0 +1,125 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.whitebutton {
+  padding: 1.5% 10%;
+  background-color: white;
+  outline: none;
+  border: 1.5px solid black;
+  font-family: "Open Sans", sans-serif;
+}
+
+.whitebutton:hover {
+  background-color: black;
+  color: white;
+}
+
+.whitebutton:focus {
+  outline: none;
+}
+
+.blackbutton {
+  padding: 1.5% 10%;
+  background-color: black;
+  color: white;
+  outline: none;
+  border: 1.5px solid black;
+  font-family: "Open Sans", sans-serif;
+}
+
+.blackbutton:hover {
+  cursor: pointer;
+}
+
+.blackbutton:focus {
+  outline: none;
+}
+
+.signupdiv h1 {
+  text-align: center;
+  font-size: 4em;
+  font-weight: bold;
+  margin-top: 3%;
+}
+
+.signupdiv .signupcontent {
+  margin: 1% 20%;
+  padding: 4% 5%;
+  text-align: center;
+}
+
+.signupdiv .signupcontent input {
+  width: 100%;
+  padding: 2% 2%;
+  font-family: "Open Sans", sans-serif;
+}
+
+.signupdiv .signupcontent label {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2em;
+  font-weight: lighter;
+}
+
+.signupdiv .signupcontent ::-webkit-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #cccf;
+  opacity: 1;
+  /* Firefox */
+}
+
+.signupdiv .signupcontent :-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #cccf;
+  opacity: 1;
+  /* Firefox */
+}
+
+.signupdiv .signupcontent ::-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #cccf;
+  opacity: 1;
+  /* Firefox */
+}
+
+.signupdiv .signupcontent ::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #cccf;
+  opacity: 1;
+  /* Firefox */
+}
+
+.signupdiv .signupcontent .col-xl-6 {
+  margin: 2% auto;
+  text-align: left;
+}
+
+.signupdiv .signupcontent .col-12 {
+  margin: 2% auto;
+}
+
+@media (max-width: 576px) {
+  .signupdiv .signupcontent {
+    margin: 1% 5%;
+    padding: 4% 5%;
+    text-align: center;
+  }
+  .signupdiv .signupcontent input {
+    width: 100%;
+    padding: 2% 2%;
+    font-family: "Open Sans", sans-serif;
+  }
+  .signupdiv .blackbutton {
+    margin: 5% 0;
+  }
+}
+/*# sourceMappingURL=SignUp.css.map */

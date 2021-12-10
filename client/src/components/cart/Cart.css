@@ -1,0 +1,199 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+[type="radio"]:checked,
+[type="radio"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+}
+
+[type="radio"]:checked + label,
+[type="radio"]:not(:checked) + label {
+  position: relative;
+  padding-left: 28px;
+  cursor: pointer;
+  line-height: 20px;
+  display: inline-block;
+  color: #666;
+}
+
+[type="radio"]:checked + label:before,
+[type="radio"]:not(:checked) + label:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18px;
+  height: 18px;
+  border: 1px solid rgba(184, 184, 184, 0.667);
+  border-radius: 100%;
+  background: #fff;
+}
+
+[type="radio"]:checked + label:after,
+[type="radio"]:not(:checked) + label:after {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #000;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  border-radius: 100%;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+[type="radio"]:not(:checked) + label:after {
+  opacity: 0;
+  -webkit-transform: scale(0);
+  transform: scale(0);
+}
+
+[type="radio"]:checked + label:after {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+.cartdiv .sorrymessage {
+  text-align: center;
+  margin: 5% 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+.cartdiv h1 {
+  text-align: center;
+  font-size: 6em;
+}
+
+.cartdiv .head {
+  padding: 5% 15%;
+}
+
+.cartdiv .heading {
+  text-align: center;
+  background-color: #000;
+}
+
+.cartdiv .heading h2 {
+  font-weight: bolder;
+  font-size: 2.5em;
+  color: white;
+}
+
+.cartdiv .item {
+  text-align: center;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  padding: .5% 0;
+}
+
+.cartdiv .item h2 {
+  font-weight: 400;
+  font-size: 1.5em;
+  font-family: "Open Sans", sans-serif;
+}
+
+.cartdiv .item .arrows {
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+.cartdiv .item .arrows:hover {
+  color: black !important;
+  cursor: pointer;
+}
+
+.cartdiv .bill {
+  text-align: left;
+  padding: 0 15%;
+}
+
+.cartdiv .bill .blackbutton {
+  padding: 1% 7%;
+}
+
+.cartdiv .bill .total {
+  font-size: 2.5em !important;
+}
+
+.cartdiv .bill h1 {
+  text-align: left;
+  font-size: 1.8em;
+  font-family: "Playfair Display", serif;
+  font-weight: lighter;
+}
+
+.cartdiv .bill h1 span {
+  font-weight: lighter;
+}
+
+.cartdiv .bill .total {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.cartdiv .bill .discount span {
+  color: green;
+}
+
+.cartdiv .trashcan {
+  font-size: 1.5em;
+  color: #ccc;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+.cartdiv .trashcan:hover {
+  color: black;
+}
+
+.cartdiv .miniform {
+  margin-left: 5%;
+}
+
+.cartdiv .miniform input, .cartdiv .miniform textarea {
+  display: block;
+  border: 1px solid #ccc;
+  width: 50%;
+  padding: 1%;
+}
+
+.cartdiv .miniform label {
+  margin-top: 1%;
+}
+
+.cartdiv .heading1, .cartdiv .heading2 {
+  font-family: "Playfair Display", serif;
+  font-size: 2em;
+  margin-top: 3%;
+}
+
+@media (max-width: 576px) {
+  .cartdiv h1 {
+    font-size: 3em;
+  }
+  .cartdiv .cartitemsdiv .head {
+    margin: 5% 10%;
+    padding: 0;
+  }
+  .cartdiv .cartitemsdiv .head .row .col-4 h2, .cartdiv .cartitemsdiv .head .row .col-2 h2 {
+    font-size: 1.5em;
+  }
+  .cartdiv .cartitemsdiv .head .item .col-2 .trashcan {
+    font-size: 1.2em;
+  }
+}
+/*# sourceMappingURL=Cart.css.map */

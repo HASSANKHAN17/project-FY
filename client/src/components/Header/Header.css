@@ -1,0 +1,124 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+span {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Setting the stroke to green using rgb values (0, 128, 0) */
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(214, 35, 35, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+
+.airtody {
+  width: 5vw;
+  -webkit-filter: contrast(2.5);
+          filter: contrast(2.5);
+}
+
+.navbarBrandName {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.navbarBrandNameext {
+  font-weight: 900;
+  color: inherit !important;
+}
+
+.logoimg {
+  width: 3vw;
+}
+
+.nav-item {
+  margin: auto auto;
+}
+
+.navbarclass {
+  font-size: 1.25rem;
+  padding: 1% 10%;
+}
+
+.navbar-nav li {
+  padding: 0 .25rem;
+}
+
+.navbar {
+  background-color: #eff9fc85 !important;
+  font-family: "Open Sans", sans-serif;
+}
+
+.logo {
+  -webkit-filter: contrast(1.5);
+          filter: contrast(1.5);
+}
+
+.nav-link {
+  color: #969696 !important;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #000 !important;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.active {
+  color: #000 !important;
+}
+
+li {
+  color: purple;
+}
+
+.custombadge {
+  position: absolute;
+  color: white;
+  background-color: red;
+  padding: 2px 8px;
+  border-radius: 40px;
+  font-size: .7em;
+}
+
+@media (min-width: 800px) {
+  .airtody {
+    width: 25vw;
+    -webkit-filter: contrast(2.5);
+            filter: contrast(2.5);
+  }
+  .custombadge {
+    margin-left: 1.6%;
+  }
+}
+
+@media (max-width: 768px) {
+  .logo {
+    height: 50%;
+    width: 60px;
+  }
+  .custombadge {
+    margin-left: 3%;
+  }
+}
+
+@media (max-width: 576px) {
+  .logo {
+    height: 50%;
+    width: 60px;
+  }
+  .custombadge {
+    margin-left: 5%;
+  }
+}
+/*# sourceMappingURL=Header.css.map */

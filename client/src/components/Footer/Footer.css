@@ -1,0 +1,39 @@
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 100;
+}
+
+p, span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.footerdiv {
+  height: 60vh;
+  padding-top: 15%;
+  text-align: center;
+}
+
+.footerdiv p {
+  font-weight: 400;
+  color: #949494;
+}
+
+.footerdiv span {
+  margin: 0 10px;
+  padding: 5% 0;
+}
+
+.footerdiv p:nth-of-type(2) {
+  font-weight: 200;
+  font-size: 1.2em;
+  margin-top: 1%;
+}
+
+.footerdiv::after {
+  padding: 50px;
+}
+/*# sourceMappingURL=Footer.css.map */

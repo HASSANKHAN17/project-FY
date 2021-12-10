@@ -1,0 +1,2212 @@
+{
+    "Nursury & KG ":[
+        
+        {
+            "name":"VIKAS APPLE PHONIC (2) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "img":"VIKAS APPLE PHONIC (2) PICTURE BOOK.jpeg",
+            "MRP":60
+        },
+        {
+            "name":"VIKAS APPLE PHONIC (3) PICTURE BOOK",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKAS APPLE PHONIC (3) PICTURE BOOK.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PHONIC (5) PICTURE BOOK ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE PHONIC (5) PICTURE BOOK.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PICTURE DICTIONARY ",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"VIKAS APPLE PICTURE DICTIONARY.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PATTERNS  ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKAS APPLE PATTERNS .jpeg"
+        },
+        {
+            "name":"VIKAS APPLE BIG CAPITAL LETTER  ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE BIG CAPITAL LETTER.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE CURSIVE CAPITAL LETTERS.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE CURSIVE SMALL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE CURSIVE SMALL LETTERS.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE MARION CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE MARION CAPITAL LETTERS.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE MARION SMALL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE MARION SMALL LETTERS.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PRINT CAPITAL LETTERS  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE PRINT CAPITAL LETTERS.jpeg"
+        },
+        {
+            "name":"VIKAS APPLE PRINT SMALL LETTERS   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE PRINT SMALL LETTERS .jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PRINT CAPITAL & SMALL LETTERS   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE PRINT CAPITAL & SMALL LETTERS.jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER READER (WITH VCD)    ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE PHONIC PRIMER READER (WITH VCD) .jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.CURSIVE    ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE PHONIC PRIMER ACTI.CURSIVE .jpeg"
+            
+        },
+
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.MARION ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE PHONIC PRIMER ACTI.MARION  .jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE PHONIC PRIMER ACTI.PRINT ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE PHONIC PRIMER ACTI.PRINT.jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 0 TO 09 ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKAS APPLE NUMBERS 0 TO 09.jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 20  ",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE NUMBERS 1 TO 20 .jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 30  ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE NUMBERS 1 TO 30 .jpeg"
+            
+        },
+
+{
+            "name":"VIKAS APPLE NUMBERS 1 TO 50  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKAS APPLE NUMBERS 1 TO 50 .jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE NUMBERS 1 TO 100  ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE NUMBERS 1 TO 100 .jpeg"
+            
+        },
+        {
+            "name":"VIKAS APPLE RHYMES & SONGS A (WITH VCD  ",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE RHYMES & SONGS A (WITH VCD.jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE GK & CONVERSATION A (WITH VCD)   ",
+            "price":65,
+            "quantity":1,
+            "MRP":70,
+            "img":"VIKAS APPLE GK & CONVERSATION A (WITH VCD) jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE GK & CONVERSATION B (WITH VCD)   ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKAS APPLE GK & CONVERSATION B (WITH VCD) jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE CHARTS   ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKAS APPLE CHARTS jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE DRAWING A",
+            "price":40,
+            "quantity":1,
+            "MRP":45,
+            "img":"VIKAS APPLE DRAWING A jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE DRAWING B",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE DRAWING B jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE DRAWING C",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE DRAWING C jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE CRAFT A",
+            "price":42,
+            "quantity":1,
+            "MRP":45,
+            "img":"VIKAS APPLE CRAFT A jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE CRAFT B",
+            "price":52,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKAS APPLE CRAFT B jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE ENGLISH ACTIVITY BOOK - A",
+            "price":60,
+            "quantity":1,
+            "MRP":65,
+            "img":"VIKAS APPLE ENGLISH ACTIVITY BOOK - A jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE ENGLISH ACTIVITY BOOK - B",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE ENGLISH ACTIVITY BOOK - B jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-20",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE Maths ACTIVITY BOOK - 1-20 jpeg"
+            
+        }
+
+{
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-50",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE Maths ACTIVITY BOOK - 1-50 jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE Maths ACTIVITY BOOK - 1-100",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE Maths ACTIVITY BOOK - 1-100 jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE E.V.S. ACTIVITY BOOK - A",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"VIKAS APPLE E.V.S. ACTIVITY BOOK - A jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE E.V.S. ACTIVITY BOOK - B",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKAS APPLE E.V.S. ACTIVITY BOOK - B jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE CURSIVE CAPITAL & SMALL LETTERS",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"VIKAS APPLE CURSIVE CAPITAL & SMALL LETTERS jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE HINDI BADE AKSHAR (SWAR)",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKAS APPLE HINDI BADE AKSHAR (SWAR) jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE HINDI BADE AKSHAR (VYANJAN)",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKAS APPLE HINDI BADE AKSHAR (VYANJAN) jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE HINDI AKSHAR LEKHAN ",
+            "price":99,
+            "quantity":1,
+            "MRP":105,
+            "img":"VIKAS APPLE HINDI AKSHAR LEKHAN  jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE HINDI SHABDA PRAVESH ",
+            "price":50,
+            "quantity":1,
+            "MRP":55,
+            "img":"VIKAS APPLE HINDI SHABDA PRAVESH jpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE HINDI SHABDA LEKHAN ",
+            "price":55,
+            "quantity":1,
+            "MRP":60,
+            "img":"VIKAS APPLE HINDI SHABDA LEKHANjpeg"
+            
+        }
+        {
+            "name":"VIKAS APPLE TICK TOCK TABLES (1-10)  ",
+            "price":36,
+            "quantity":1,
+            "MRP":40,
+            "img":"VIKAS APPLE TICK TOCK TABLES (1-10) jpeg"
+            
+        } 
+        {
+            "name":"VIKAS APPLE TICK TOCK TABLES (1-20)  ",
+            "price":45,
+            "quantity":1,
+            "MRP":50,
+            "img":"VIKAS APPLE TICK TOCK TABLES (1-20) jpeg"
+            
+        } 
+        "Class I "
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 1 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKAS GOLDEN GRAMMAR BOOK - 1 jpeg"
+            
+        } 
+        {
+            "name":"SMART W.B.BALBHARATI (E) I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMART W.B.BALBHARATI (E) I jpeg"
+            
+        } 
+        {
+            "name":"SMART W.B.MATHEMATICS (E) I ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMART W.B.MATHEMATICS (E) Ijpeg"
+            
+        }
+        {
+            "name":"NAVNEET GENERAL KNOWLEDGE - I  ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"NAVNEET GENERAL KNOWLEDGE - I "
+            
+        }
+        "Class II "
+        {
+            "name":"NAVNEET EVS EDUCATION BK 1  ",
+            "price":95,
+            "quantity":1,
+            "MRP":100,
+            "img":"NAVNEET EVS EDUCATION BK 1 "
+            
+        }
+        
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 2 ",
+            "price":75,
+            "quantity":1,
+            "MRP":80,
+            "img":"VIKAS GOLDEN GRAMMAR BOOK - 2 "
+            
+        }
+        {
+            "name":"SMART W.B.BALBHARATI (E) II  ",
+            "price":110,
+            "quantity":1,
+            "MRP":120,
+            "img":"SMART W.B.BALBHARATI (E) II "
+            
+        },
+        {
+            "name":"SMART W.B.MATHEMATICS (E) II   ",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"SMART W.B.MATHEMATICS (E) II "
+            
+        },
+        "Class III "
+        {
+            "name":"SMART W.B.BALBHARATI (E) III   ",
+            "price":99,
+            "quantity":1,
+            "MRP":110,
+            "img":"SMART W.B.BALBHARATI (E) III "
+            
+        }
+        {
+            "name":"VIKAS GOLDEN GRAMMAR BOOK - 3    ",
+            "price":85,
+            "quantity":1,
+            "MRP":90,
+            "img":"VIKAS GOLDEN GRAMMAR BOOK - 3 "
+            
+        }
+        {
+            "name":"SMART W.B.MATHEMATICS (E) III   ",
+            "price":90,
+            "quantity":1,
+            "MRP":95,
+            "img":"SMART W.B.MATHEMATICS (E) III "
+
+        },
+    {
+        "name":"SMART W.B.EVS-1(SCIENCE)(E) III   ",
+        "price":65,
+        "quantity":1,
+        "MRP":70,
+        "img":"SMART W.B.EVS-1(SCIENCE)(E) III "
+
+    }],
+"Class IV "
+{
+    "name":"SMART W.B.EVS-1(SCIENCE)(E) IV  ",
+    "price":55,
+    "quantity":1,
+    "MRP":60,
+    "img":"SMART W.B.EVS-1(SCIENCE)(E) IV "
+
+],
+{
+    "name":"SMART W.B.MATHEMATICS (E) IV  ",
+    "price":99,
+    "quantity":1,
+    "MRP":100,
+    "img":"SMART W.B.MATHEMATICS (E) IV "
+
+],
+
+{
+    "name":"SMART W.B.BALBHARATI (E) IV ",
+    "price":99,
+    "quantity":1,
+    "MRP":110,
+    "img":"SMART W.B.BALBHARATI (E) IV "
+
+],
+
+{
+    "name":"SMART WB.EVS-II (HISTORY)(E)IV ",
+    "price":75,
+    "quantity":1,
+    "MRP":80,
+    "img":"SMART WB.EVS-II (HISTORY)(E)IV "
+
+],
+{
+    "name":"SMART W.B.EVS-1(GEOG.) (E) IV ",
+    "price":75,
+    "quantity":1,
+    "MRP":80,
+    "img":"SMART W.B.EVS-1(GEOG.) (E) IV "
+
+],
+{
+    "name":"SMART W.B.MARATHI SULABHBHARATI IV ",
+    "price":85,
+    "quantity":1,
+    "MRP":90,
+    "img":"SMART W.B.MARATHI SULABHBHARATI IV "
+
+],
+{
+    "name":"VIKAS GOLDEN GRAMMAR BOOK - 4 ",
+    "price":85,
+    "quantity":1,
+    "MRP":90,
+    "img":"VIKAS GOLDEN GRAMMAR BOOK - 4 "
+
+],
+"Class V "
+{
+    "name":"VIKAS GOLDEN GRAMMAR BOOK - 5 ",
+    "price":85,
+    "quantity":1,
+    "MRP":90,
+    "img":"VIKAS GOLDEN GRAMMAR BOOK - 5 "
+
+],
+{
+    "name":"VIKAS GOLDEN GRAMMAR BOOK - 5 ",
+    "price":85,
+    "quantity":1,
+    "MRP":90,
+    "img":"VIKAS GOLDEN GRAMMAR BOOK - 5 "
+
+}],
+
+"Class VI "[
+    {
+        "name":"Hindi6 ",
+        "price":54,
+        "quantity":1,
+        "MRP":60,
+        "img":"hindi6jpeg "
+    
+    },
+      
+   { "name":"Generalscience6",
+    "price":99,
+    "quantity":1,
+    "MRP":105,
+    "img":"hindi6jpeg "
+
+},
+{ "name":"Mathematics6",
+    "price":99,
+    "quantity":1,
+    "MRP":105,
+    "img":"Mathematics6jpeg "
+
+},
+{ "name":"Geography6",
+    "price":60,
+    "quantity":1,
+    "MRP":65,
+    "img":"Geography6jpeg "
+
+},
+{ "name":"Historyandcivics6",
+    "price":95,
+    "quantity":1,
+    "MRP":100,
+    "img":"Historyandcivics6jpeg "
+
+},
+{ "name":"Marathi6",
+    "price":65,
+    "quantity":1,
+    "MRP":70,
+    "img":"marathi6jpeg "
+
+},
+{ "name":"Englishbalbharti6",
+    "price":95,
+    "quantity":1,
+    "MRP":100,
+    "img":"Englishbalbharti6jpeg "
+
+},
+{ "name":"Historyandcivics6",
+    "price":95,
+    "quantity":1,
+    "MRP":100,
+    "img":"Historyandcivics6jpeg "
+
+}],
+"Class7":[
+    { "name":"Historyandcivics7",
+        "price":105,
+        "quantity":1,
+        "MRP":115,
+        "img":"Historyandcivics7jpeg "
+    
+    },
+    { "name":"Hindisulabhbharti7",
+        "price":55,
+        "quantity":1,
+        "MRP":60,
+        "img":"Hindisulabhbharti7jpeg "
+    
+    },
+    { "name":"Englishbalbharti7",
+        "price":95,
+        "quantity":1,
+        "MRP":100,
+        "img":"Englishbalbharti7jpeg "
+    
+    },
+    { "name":"Marathisulabhbharti7",
+        "price":60,
+        "quantity":1,
+        "MRP":65,
+        "img":"Marathisulabhbharti7jpeg "
+    
+    },
+    { "name":"Geography7",
+        "price":80,
+        "quantity":1,
+        "MRP":85,
+        "img":"MGeography7jpeg "
+    
+    },
+    { "name":"Mathematics7",
+        "price":85,
+        "quantity":1,
+        "MRP":90,
+        "img":"Mathematics7jpeg "
+    
+    },
+    { "name":"Generalscience7",
+        "price":140,
+        "quantity":1,
+        "MRP":150,
+        "img":"Generalscience7jpeg "
+    
+    }],
+
+    "Class8":[
+        { "name":"Marathisulabhbharti8",
+            "price":70,
+            "quantity":1,
+            "MRP":75,
+            "img":"Marathisulabhbharti8jpeg "
+        
+        },
+        { "name":"Hindisulabhbharti8",
+            "price":85,
+            "quantity":1,
+            "MRP":90,
+            "img":"Hindisulabhbharti8jpeg "
+        
+        }, 
+        { "name":"Englshbalbhbharti8",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"Englishbalbhbharti8jpeg "
+        
+        },
+        { "name":"Historyandcivics8",
+            "price":155,
+            "quantity":1,
+            "MRP":165,
+            "img":"Historyandcivics8jpeg "
+        
+        },
+        { "name":"Generalscience8",
+            "price":199,
+            "quantity":1,
+            "MRP":210,
+            "img":"generalscience8jpeg "
+        
+        },
+        { "name":"Mathematics8",
+            "price":120,
+            "quantity":1,
+            "MRP":130,
+            "img":"Mathematics8jpeg "
+        
+        }],
+        
+        "Class9":[
+            { "name":"Hindilokbharti9",
+                "price":140,
+                "quantity":1,
+                "MRP":150,
+                "img":"Hindilokbharti9jpeg "
+            
+            },
+            { "name":"Marathiaksharbharti9",
+                "price":99,
+                "quantity":1,
+                "MRP":110,
+                "img":"Marathiaksharbharti9jpeg "
+            
+            },
+            { "name":"Englishkumarbharti9",
+                "price":140,
+                "quantity":1,
+                "MRP":150,
+                "img":"Englishkumarbharti9jpeg "
+            
+            },
+            { "name":"Historyandpolaticalscience9",
+                "price":120,
+                "quantity":1,
+                "MRP":125,
+                "img":"Historyandpolaticalscience9jpeg "
+            
+            },
+            { "name":"Geography9",
+                "price":95,
+                "quantity":1,
+                "MRP":100,
+                "img":"Gographyjpeg "
+            
+            }],
+
+            "Class10":[
+
+            { "name":"Marathiaksharbharti10",
+                "price":110,
+                "quantity":1,
+                "MRP":120,
+                "img":"Marathiaksharbharti10"
+            
+            }
+            { "name":"Hindilokbharti10",
+                "price":165,
+                "quantity":1,
+                "MRP":175,
+                "img":"Hindilokbharti10"
+            
+            }
+            { "name":"Historyandpolaticalscience10",
+                "price":140,
+                "quantity":1,
+                "MRP":150,
+                "img":"Historyandpolaticalscience10"
+            
+            }
+            { "name":"Geography10",
+                "price":95,
+                "quantity":1,
+                "MRP":100,
+                "img":"Geography10"
+            
+            }
+            { "name":"Englishkumarbharti10",
+                "price":210,
+                "quantity":1,
+                "MRP":225,
+                "img":"Englishkumarbharti10"
+            
+            }],
+"StateBoard Text Book"
+"Class I "
+    {
+        "name":"EnglishBalbhartione ",
+        "price":42,
+        "quantity":1,
+        "MRP":42,
+        "img":"EnglishBalbhartionejpeg"
+    
+    ],
+
+    {
+        "name":"Mathematicsone ",
+        "price":46,
+        "quantity":1,
+        "MRP":46,
+        "img":"Mathematicsonejpeg "
+    
+    ],
+    {
+        "name":"Marathione ",
+        "price":31,
+        "quantity":1,
+        "MRP":31,
+        "img":"Marathionejpeg "
+    
+    ],
+
+"Class II "
+
+{
+    "name":"EnglishBalbhartitwo ",
+    "price":51,
+    "quantity":1,
+    "MRP":51,
+    "img":"EnglishBalbhartitwojpeg"
+
+],
+{
+    "name":"Mathematicstwo ",
+    "price":52,
+    "quantity":1,
+    "MRP":52,
+    "img":"Mathematicstwojpeg "
+
+],
+{
+    "name":"Marathitwo ",
+    "price":31,
+    "quantity":1,
+    "MRP":31,
+    "img":"Marathitwojpeg "
+
+],
+"class III"
+{
+    "name":"EnglishBalbhartithree ",
+    "price":39,
+    "quantity":1,
+    "MRP":39,
+    "img":"EnglishBalbhartithreejpeg"
+
+],
+{
+    "name":"Mathematicsthree ",
+    "price":39,
+    "quantity":1,
+    "MRP":39,
+    "img":"Mathematicsthreejpeg "
+
+],
+{
+    "name":"Marathithree",
+    "price":24,
+    "quantity":1,
+    "MRP":24,
+    "img":"Marathithreejpeg "
+
+],
+{
+    "name":"EVSTHREE ",
+    "price":72,
+    "quantity":1,
+    "MRP":72,
+    "img":"EVSTHREEjpeg "
+
+],
+"ClassIV"
+
+{
+    "name":"Englishfour ",
+    "price":39,
+    "quantity":1,
+    "MRP":39,
+    "img":"Englishfourjpeg "
+
+],
+{
+    "name":"Mathematicsfour",
+    "price":39,
+    "quantity":1,
+    "MRP":39,
+    "img":"Mathematicsfourjpeg "
+
+],
+{
+    "name":"Marathifour",
+    "price":24,
+    "quantity":1,
+    "MRP":24,
+    "img":"Marathifourjpeg "
+
+],
+{
+    "name":"EVSOnefour",
+    "price":59,
+    "quantity":1,
+    "MRP":59,
+    "img":"EVSOnefourjpeg "
+
+],
+"Class V"
+{
+    "name":"EVSOnefive",
+    "price":57,
+    "quantity":1,
+    "MRP":57,
+    "img":"EVSOnefivejpeg "
+
+],
+{
+    "name":"EVStwofive",
+    "price":28,
+    "quantity":1,
+    "MRP":28,
+    "img":"EVStwofivejpeg "
+
+],
+{
+    "name":"Englishfive",
+    "price":40,
+    "quantity":1,
+    "MRP":40,
+    "img":"Englishfivejpeg"
+
+],
+{
+    "name":"Mathematicsfive",
+    "price":36,
+    "quantity":1,
+    "MRP":36,
+    "img":"Mathematicsfivejpeg"
+
+],
+{
+    "name":"Marathifive",
+    "price":25,
+    "quantity":1,
+    "MRP":25,
+    "img":"Marathisfivejpeg"
+
+],
+{
+    "name":"Hindifive",
+    "price":25,
+    "quantity":1,
+    "MRP":25,
+    "img":"Hindifivejpeg"
+
+],
+"Class VI"
+{
+    "name":"EnglishSIX",
+    "price":25,
+    "quantity":1,
+    "MRP":25,
+    "img":"EnglishSIXjpeg"
+
+],
+{
+    "name":"MathematicsSIX",
+    "price":41,
+    "quantity":1,
+    "MRP":41,
+    "img":"mathematicssixjpeg"
+
+],
+{
+    "name":"Generalsciencesix",
+    "price":51,
+    "quantity":1,
+    "MRP":51,
+    "img":"Generalsciencejpeg"
+
+],
+{
+    "name":"Historyandcivics",
+    "price":37,
+    "quantity":1,
+    "MRP":37,
+    "img":"Historyandcivics"
+
+],
+{
+    "name":"Geographysix",
+    "price":33,
+    "quantity":1,
+    "MRP":33,
+    "img":"Geographysixjpeg"
+
+],
+{
+    "name":"Hindisix",
+    "price":27,
+    "quantity":1,
+    "MRP":27,
+    "img":"Hindisixjpeg"
+
+],
+{
+    "name":"Marathisix",
+    "price":27,
+    "quantity":1,
+    "MRP":27,
+    "img":"Marathisixjpeg"
+
+],
+"Class Seven"
+
+{
+    "name":"Marathiseven",
+    "price":28,
+    "quantity":1,
+    "MRP":28,
+    "img":"Marathisevenjpeg"
+
+],
+{
+    "name":"Hindiseven",
+    "price":28,
+    "quantity":1,
+    "MRP":28,
+    "img":"hindisevenjpeg"
+
+],
+{
+    "name":"Englishseven",
+    "price":46,
+    "quantity":1,
+    "MRP":46,
+    "img":"Englishsevenjpeg"
+
+],
+{
+    "name":"Mathematicsseven",
+    "price":41,
+    "quantity":1,
+    "MRP":41,
+    "img":"Mathematicssevenjpeg"
+
+],
+{
+    "name":"Generalscienceseven",
+    "price":57,
+    "quantity":1,
+    "MRP":57,
+    "img":"Generalsciencejpeg"
+
+],
+{
+    "name":"Historyandcivicsseven",
+    "price":40,
+    "quantity":1,
+    "MRP":40,
+    "img":"Historyandcivicssevenjpeg"
+
+],
+{
+    "name":"Geographyseven",
+    "price":38,
+    "quantity":1,
+    "MRP":38,
+    "img":"Geographysevenjpeg"
+
+],
+"Class Eight"
+{
+    "name":"Englisheight",
+    "price":49,
+    "quantity":1,
+    "MRP":49,
+    "img":"Englisheightjpeg"
+
+],
+
+{
+    "name":"Mathematicseight",
+    "price":48,
+    "quantity":1,
+    "MRP":48,
+    "img":"Mathematicseightjpeg"
+
+],
+{
+    "name":"Generalscienceeight",
+    "price":60,
+    "quantity":1,
+    "MRP":60,
+    "img":"Generalscienceeightjpeg"
+
+],
+{
+    "name":"Historyandcivicseight",
+    "price":42,
+    "quantity":1,
+    "MRP":42,
+    "img":"Historyandcivicsjpeg"
+
+],
+{
+    "name":"Geographyeight",
+    "price":38,
+    "quantity":1,
+    "MRP":38,
+    "img":"Geographyjpeg"
+
+],
+{
+    "name":"Marathieight",
+    "price":30,
+    "quantity":1,
+    "MRP":30,
+    "img":"Marathieightjpeg"
+
+],
+{
+    "name":"Hindieight",
+    "price":30,
+    "quantity":1,
+    "MRP":30,
+    "img":"Hindieightjpeg"
+
+],
+"Class Nine"
+{
+    "name":"Hindinine",
+    "price":50,
+    "quantity":1,
+    "MRP":50,
+    "img":"Hindininejpeg"
+
+],
+{
+    "name":"Englishnine",
+    "price":65,
+    "quantity":1,
+    "MRP":65,
+    "img":"Englishninejpeg"
+
+],
+{
+    "name":"Marathinine",
+    "price":48,
+    "quantity":1,
+    "MRP":48,
+    "img":"Marathininejpeg"
+
+],
+{
+    "name":"Mathematicspartoneinine",
+    "price":64,
+    "quantity":1,
+    "MRP":64,
+    "img":"Mathematicspartoneininejpeg"
+
+],
+{
+    "name":"Mathematicsparttwoinine",
+    "price":61,
+    "quantity":1,
+    "MRP":61,
+    "img":"Mathematicsparttwoininejpeg"
+
+],
+{
+    "name":"HistoryandCivicsnine",
+    "price":54,
+    "quantity":1,
+    "MRP":54,
+    "img":"Historyandcivicsninejpeg"
+
+],
+{
+    "name":"Geographynine",
+    "price":58,
+    "quantity":1,
+    "MRP":58,
+    "img":"Geographyninejpeg"
+
+],
+{
+    "name":"Scienceandtechnologynine",
+    "price":107,
+    "quantity":1,
+    "MRP":107,
+    "img":"Scienceandtechnologyninejpeg"
+
+},
+"Class 10"
+{
+    "name":"EnglishTEN",
+    "price":73,
+    "quantity":1,
+    "MRP":73,
+    "img":"Englishtenjpeg"
+
+},
+{
+    "name":"ScienceandtechnologypartoneTen",
+    "price":75,
+    "quantity":1,
+    "MRP":75,
+    "img":"Scienceandtechnologypartonetenjpeg"
+
+},
+{
+    "name":"ScienceandtechnologyParttwoten",
+    "price":65,
+    "quantity":1,
+    "MRP":65,
+    "img":"Scienceandtechnologyparttwotenjpeg"
+
+},
+{
+    "name":"Mathematicspartoneten",
+    "price":80,
+    "quantity":1,
+    "MRP":80,
+    "img":"Mathematicspartonetenjpeg"
+
+},
+{
+    "name":"Mathematicsparttwoten",
+    "price":74,
+    "quantity":1,
+    "MRP":74,
+    "img":"Mathematicsparttwotenjpeg"
+
+},
+{
+    "name":"Historyandcivicten",
+    "price":56,
+    "quantity":1,
+    "MRP":56,
+    "img":"Historyandcivictenjpeg"
+
+},
+{
+    "name":"Marathiten",
+    "price":48,
+    "quantity":1,
+    "MRP":48,
+    "img":"Marathijpeg"
+}
+],
+"Class 11":[
+{
+"name":"English11",
+"price":98,
+"quantity":1,
+"MRP":98,
+"img":"English11jpeg"
+
+},
+{
+    "name":"Marathi11",
+    "price":98,
+    "quantity":1,
+    "MRP":98,
+    "img":"Marathi11jpeg"
+    
+},
+{
+    "name":"Hindi11",
+    "price":98,
+    "quantity":1,
+    "MRP":98,
+    "img":"Hindi11jpeg"
+}
+
+],
+"Class 11 Science":[
+{
+    "name":"Mathematicsandstaticspartone11",
+    "price":128,
+    "quantity":1,
+    "MRP":128,
+    "img":"Mathematicsandstaticspartone11jpeg"
+
+},
+{
+    "name":"Mathematicsandstaticsparttwo11",
+    "price":122,
+    "quantity":1,
+    "MRP":122,
+    "img":"Mathematicsandstaticsparttwo11jpeg"
+
+},
+{
+    "name":"Physics11",
+    "price":145,
+    "quantity":1,
+    "MRP":145,
+    "img":"Physics11jpeg"
+
+},
+{
+    "name":"Chemistry11",
+    "price":154,
+    "quantity":1,
+    "MRP":154,
+    "img":"Chemistry11jpeg"
+
+},
+{
+    "name":"Biology11",
+    "price":127,
+    "quantity":1,
+    "MRP":127,
+    "img":"Biology11jpeg"
+
+}],
+"Class11thArtsMarathiMedium":[
+
+        {
+            "name":"Polaticalscience11",
+            "price":68.00,
+            "quantity":1,
+            "MRP":68.00,
+            "img":"Polaticalscience11jpeg"
+
+        },
+        {
+            "name":"Socialogy11",
+            "price":76.00,
+            "quantity":1,
+            "MRP":76.00,
+            "img":"Socialogy11jpeg"
+
+        },
+        {
+            "name":"Childdevelopment11",
+            "price":111.00,
+            "quantity":1,
+            "MRP":111.00,
+            "img":"Childdevelopment11jpeg"
+
+        },
+        {
+            "name":"Psychology11",
+            "price":84.00,
+            "quantity":1,
+            "MRP":84.00,
+            "img":"psychology11jpeg"
+
+        },
+        {
+            "name":"Economics11",
+            "price":60.00,
+            "quantity":1,
+            "MRP":60.00,
+            "img":"Economics11jpeg",
+
+        },
+        {
+            "name":"Education11",
+            "price":63.00,
+            "quantity":1,
+            "MRP":63.00,
+            "img":"Education11jpeg"
+
+        }],
+        
+        "Class11thcommerceenglishmendium":[
+        {
+            "name":"Bookkeepingandaccountancy11",
+            "price":203.00,
+            "quantity":1,
+            "MRP":203.00,
+            "img":"Bookkeepingandaccountancy1111jpeg"
+
+        },
+        {
+            "name":"Economics11",
+            "price":60,
+            "quantity":1,
+            "MRP":60,
+            "img":"Economics11jpeg"
+
+        },
+        {
+            "name":"Co-Operation11",
+            "price":88,
+            "quantity":1,
+            "MRP":88,
+            "img":"Co-Operation11jpeg"
+
+        },
+        
+        {
+            "name":"Organisationofcommerceandmanagment11",
+            "price":111,
+            "quantity":1,
+            "MRP":111,
+            "img":"Organisationofcommerceandmanagment11jpeg"
+
+        }],
+        "Class12th "
+
+        {
+            "name":"Englsh12",
+            "price":104,
+            "quantity":1,
+            "MRP":104,
+            "img":"English12jpeg"
+
+        },
+        {
+            "name":"Marathi12",
+            "price":104,
+            "quantity":1,
+            "MRP":104,
+            "img":"Marathi12jpeg"
+
+        },
+        {
+            "name":"hindi12",
+            "price":104,
+            "quantity":1,
+            "MRP":104,
+            "img":"Hindi12jpeg"
+
+        ],
+        "Class12thscience "
+        {
+            "name":"Mathematicsandstaticsparttwo12",
+            "price":146,
+            "quantity":1,
+            "MRP":146,
+            "img":"Mathematicsandstaticsparttwo12jpeg"
+
+        ],
+        {
+            "name":"Mathematicsandstaticsparttone12",
+            "price":150,
+            "quantity":1,
+            "MRP":150,
+            "img":"Mathematicsandstaticspartone12jpeg"
+
+        ],
+        {
+            "name":"Physics12",
+            "price":193,
+            "quantity":1,
+            "MRP":193,
+            "img":"Physics12jpeg"
+
+        ],
+        {
+            "name":"Chemistry12",
+            "price":187,
+            "quantity":1,
+            "MRP":187,
+            "img":"Chemistry12jpeg"
+
+        },
+        {
+            "name":"Biology12",
+            "price":184,
+            "quantity":1,
+            "MRP":184,
+            "img":"Biology12jpeg"
+
+        ],
+        {
+            "name":"Informationandtechnology12",
+            "price":75,
+            "quantity":1,
+            "MRP":75,
+            "img":"Informationandtechnology12jpeg"
+
+        ],
+        "Class12thcommerceenglishmedium"
+
+
+        {
+            "name":"Apsara",
+            "price":1,
+            "quantity":1,
+            "MRP":18
+        }
+    ]
+    ,
+    "Eraser":[
+        {
+            "name":"Dom",
+            "price":2,
+            "quantity":1,
+            "MRP":18
+        },
+        {
+            "name":"Er",
+            "price":1,
+            "quantity":1,
+            "MRP":18
+        }
+    ]
+    ,
+    "Sharpner":[
+        {
+            "name":"Dom",
+            "price":2,
+            "quantity":1,
+            "MRP":18
+        },
+        {
+            "name":"Er",
+            "price":1,
+            "quantity":1,
+            "MRP":18
+        }
+    ]
+    ,
+    "scale":[
+        {
+            "name":"Dom",
+            "price":2,
+            "quantity":1,
+            "MRP":18
+        },
+        {
+            "name":"Er",
+            "price":1,
+            "quantity":1,
+            "MRP":18
+        }
+    ]
+    ,
+    "Geometry":[
+        {
+            "name":"Dom",
+            "price":2,
+            "quantity":1,
+            "MRP":18
+        },
+        {
+            "name":"Er",
+            "price":1,
+            "quantity":1,
+            "MRP":18
+        }
+    ]
+    "Whitener":[
+        {
+            "name":"Dom",
+            "price":2,
+            "quantity":1,
+            "MRP":18
+        },
+        {
+            "name":"Er",
+            "price":1,
+            "quantity":1,
+            "MRP":18
+        }
+    
+        {
+            "camlinNotebookhardbond ":[
+                    {
+                        "name":"camlinunrulesnotebook164pages",
+                        "price":30,
+                        "quantity":1,
+                        "MRP":35,
+                        "img":"camlinunrulesnotebook164pagespng"
+            
+                    },
+            
+            {
+                        "name":"camlinsinglelinenotebook72pages",
+                        "price":18,
+                        "quantity":1,
+                        "MRP":20,
+                        "img":"camlinsinglelinenotebook72pagespng"
+            
+                    },
+                    {
+                        "name":"camlindoublelinenotebook72pages",
+                        "price":18,
+                        "quantity":1,
+                        "MRP":20,
+                        "img":"camlindoublelinenotebook72pagespng"
+            
+                    },
+                    {
+                        "name":"camlindoublelinenotebook164pages",
+                        "price":30,
+                        "quantity":1,
+                        "MRP":35,
+                        "img":"camlindoublelinenotebook164pagespng"
+            
+                    },
+                    {"name":"camlinfourlinenotebook72pages",
+                        "price":18,
+                        "quantity":1,
+                        "MRP":20,
+                        "img":"camlinfourlinenotebook72pagesjpeg"
+                    },
+                    {"name":"camlinfourlinenotebook164pages",
+                        "price":30,
+                        "quantity":1,
+                        "MRP":35,
+                        "img":"camlinfourlinenotebook164pagesjpeg"
+            },
+                 {"name":"camlindoublelinenotebook164pages",
+                    "price":30,
+                        "quantity":1,
+                        "MRP":35,
+                        "img":"camlindoublelinenotebook164pagesjpeg"
+                 },
+            
+                 {"name":"camlindoublelinenotebook164pages",
+                    "price":30,
+                        "quantity":1,
+                        "MRP":35,
+                        "img":"camlindoublelinenotebook164pagesjpeg"
+                 },
+                ]
+                {
+                    "camlinNotebooksoftbond ":[
+                            {
+                                "name":"camlinunrulesnotebook88pages",
+                                "price":15,
+                                "quantity":1,
+                                "MRP":17,
+                                "img":"camlinunrulesnotebook88pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinunrulesnotebook164pages",
+                                "price":24,
+                                "quantity":1,
+                                "MRP":28,
+                                "img":"camlinunrulesnotebook164pagesjpeg"
+                    
+                            },      
+                            {
+                                "name":"camlinusinglelinenotebook88pages",
+                                "price":15,
+                                "quantity":1,
+                                "MRP":17,
+                                "img":"camlinusinglelinenotebook88pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"camlinsinglelinenotebook164pages",
+                                "price":24,
+                                "quantity":1,
+                                "MRP":28,
+                                "img":"camlinsinglelinenotebook164pagesjpeg"
+                    
+                            },   
+                            {
+                                "name":"camlindoublelinenotebook88pages",
+                                "price":15,
+                                "quantity":1,
+                                "MRP":17,
+                                "img":"camlindoublelinenotebook88pagesjpeg"
+                    
+                            },  
+                            {
+                                "name":"camlindoublelinenotebook164pages",
+                                "price":24,
+                                "quantity":1,
+                                "MRP":28,
+                                "img":"camlindoublelinenotebook164pagesjpeg"
+                    
+                            },   
+                            {
+                                "name":"camlinfourlinenotebook164pages",
+                                "price":24,
+                                "quantity":1,
+                                "MRP":28,
+                                "img":"camlinfourlinenotebook164pagesjpeg"
+                    
+                            },   
+                            {
+                                "name":"camlinfourlinenotebook88pages",
+                                "price":15,
+                                "quantity":1,
+                                "MRP":17,
+                                "img":"camlinfourlinenotebook88pagesjpeg"
+                    
+                            },   
+                            {
+                                "name":"camlinmediumsquarelinenotebook164pages",
+                                "price":24,
+                                "quantity":1,
+                                "MRP":28,
+                                "img":"camlinmediumsquarelinenotebook164pagesjpeg"
+                    
+                            },   
+                            {
+                                "name":"camlinmediumsquarelinenotebook88pages",
+                                "price":15,
+                                "quantity":1,
+                                "MRP":17,
+                                "img":"camlinmediumsquarelinenotebook88pagesjpeg"
+                    
+                            },  
+                            {
+                                "name":"camlinjumboa5softsinglelinenotebook172pagesjpeg",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinjumboa5softsinglelinenotebook172pagesjpeg"
+                    
+                            },  
+
+                            {
+                                "name":"camlinjumboa5softfourlinenotebook172pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinjumboa5softfourlinenotebook172pagesjpeg"
+                    
+                            }, 
+                            {
+                                "name":"camlinjumboa5softmediumsquarelinenotebook172pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinjumboa5softmediumsquarelinenotebook172pagesjpeg"
+                    
+                            }, 
+                            {
+                                "name":"camlinA5sizehardbondsinglelinenotebook164pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinA5sizehardbondsinglelinenotebook164pagesjpeg"
+                    
+                            }, 
+                            {
+                                "name":"camlinA5sizesoftbondunrulesnotebook100pages",
+                                "price":27,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA5sizesoftbondunrulesnotebook100pages"
+                    
+                            }, 
+                            {
+                                "name":"camlinA5sizesoftbondunrulesnotebook180pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinA5sizesoftbondunrulesnotebook180pagesjpeg"
+                    
+                            }, 
+                            {
+                                "name":"camlinA5sizesoftbondsinglelinenotebook180pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinA5sizesoftbondsinglelinenotebook180pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbondsinglelinenotebook100pages",
+                                "price":27,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA5sizesoftbondsinglelinenotebook100pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbonddoublelinenotebook100pages",
+                                "price":27,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA5sizesoftbonddoublelinenotebook100pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbonddoublelinenotebook180pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinA5sizesoftbonddoublelinenotebook180pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbondfourlinenotebook180pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinA5sizesoftbondfourlinenotebook180pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbondfourlinenotebook100pages",
+                                "price":27,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA5sizesoftbondfourlinenotebook100pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbondmediumsqurelinenotebook180pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinA5sizesoftbondmediumlinenotebook180pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA5sizesoftbondmediumsqurelinenotebook100pages",
+                                "price":27,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA5sizesoftbondmediumlinenotebook100pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizehardbondnotebook144pages",
+                                "price":60,
+                                "quantity":1,
+                                "MRP":70,
+                                "img":"camlinA4sizehardbondnotebook144pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizehardbondnotebook172pages",
+                                "price":75,
+                                "quantity":1,
+                                "MRP":85,
+                                "img":"camlinA4sizehardbondnotebook172pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizesoftbondunrulednotebook72pages",
+                                "price":25,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA4sizesoftbondunrulednotebook72pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizesoftbondunrulednotebook292pages",
+                                "price":100,
+                                "quantity":1,
+                                "MRP":110,
+                                "img":"camlinA4sizesoftbondunrulednotebook292pagespng"
+                    
+                            },
+
+                            {
+                                "name":"camlinA4sizesoftbondusinglelinenotebook72pages",
+                                "price":25,
+                                "quantity":1,
+                                "MRP":30,
+                                "img":"camlinA4sizesoftbondusinglelinenotebook72pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizesoftbondusinglelinenotebook172pages",
+                                "price":60,
+                                "quantity":1,
+                                "MRP":65,
+                                "img":"camlinA4sizesoftbondusinglelinenotebook172pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizesoftbondusinglelinenotebook392pages",
+                                "price":135,
+                                "quantity":1,
+                                "MRP":150,
+                                "img":"camlinA4sizesoftbondusinglelinenotebook392pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizesoftbondusinglelinepremionotebook152pages",
+                                "price":60,
+                                "quantity":1,
+                                "MRP":65,
+                                "img":"camlinA4sizesoftbondusinglelinepremionotebook152pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinA4sizesoftbondusinglelinepremionotebook200pages",
+                                "price":70,
+                                "quantity":1,
+                                "MRP":80,
+                                "img":"camlinA4sizesoftbondusinglelinepremionotebook200pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinultrasoftbonduunruledlinelongbook112pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinultrasoftbonduunruledlinelongbook112pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinultrasoftbonduunruleslinelongbook304pages",
+                                "price":115,
+                                "quantity":1,
+                                "MRP":130,
+                                "img":"camlinultrasoftbonduunruledlinelongbook304pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinultrasoftbondusinglelinelongbook112pages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"camlinultrasoftbondusinglelinelongbook112pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinultrasoftbondusinglelinelongbook240pages",
+                                "price":90,
+                                "quantity":1,
+                                "MRP":100,
+                                "img":"camlinultrasoftbondusinglelinelongbook240pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"camlinultrasoftbondusinglelinelongbook304pages",
+                                "price":115,
+                                "quantity":1,
+                                "MRP":130,
+                                "img":"camlinultrasoftbondusinglelinelongbook304pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinpremiowirosinglelinebookB5160pages",
+                                "price":130,
+                                "quantity":1,
+                                "MRP":140,
+                                "img":"camlinpremiowirosinglelinebookB5160pages"
+                    
+                            },
+                            {
+                                "name":"camlinpremiowirosinglelinebookB5160pages",
+                                "price":130,
+                                "quantity":1,
+                                "MRP":140,
+                                "img":"camlinpremiowirosinglelinebookB5160pages"
+                    
+                            },
+                            {
+                                "name":"camlinpremiowirosinglelinebookB5160pages",
+                                "price":130,
+                                "quantity":1,
+                                "MRP":140,
+                                "img":"camlinpremiowirosinglelinebookB5160pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"camlinspiralbook192pages",
+                                "price":55,
+                                "quantity":1,
+                                "MRP":60,
+                                "img":"camlinspiralbook192pagespng"
+                    
+                            },
+                            {
+                                "name":"camlinspiralbooka4size192pages",
+                                "price":80,
+                                "quantity":1,
+                                "MRP":85,
+                                "img":"camlinspiralbooka4size192pagespng"
+                    
+                            }
+
+                        ],
+                        [
+                            "classmateNotebook:"notepad"
+
+                            {
+                                "name":"classmatenotepadsingleline80pages",
+                                "price":18,
+                                "quantity":1,
+                                "MRP":20,
+                                "img":"classmatenotepadsingleline80pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"classmatenotepadunruled80pages",
+                                "price":18,
+                                "quantity":1,
+                                "MRP":20,
+                                "img":"classmatenotepadunruled80pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"classmatenotepadsingleline22pages",
+                                "price":9,
+                                "quantity":1,
+                                "MRP":10,
+                                "img":"classmatenotepadsingleline22pagesjpeg"
+                    
+                            },
+                            {
+                                "name":"classmatenotepadsingleline22pages",
+                                "price":9,
+                                "quantity":1,
+                                "MRP":10,
+                                "img":"classmatenotepadsingleline22pagesjpeg"
+                    
+                            },
+                            
+                        
+                    ],
+                    
+        [
+                        "Classmatelongbooks272X167 "
+                                
+                              [  {
+                                    "name":"classmatelongbooksinglelinehardbond360pages",
+                                    "price":115,
+                                    "quantity":1,
+                                    "MRP":125,
+                                    "img":"classmatelongbooksinglelinehardbond360pagesjpeg"
+                        
+                                },
+                                {
+                                    "name":"classmatelongbooksinglelinehardbond240pages",
+                                    "price":99,
+                                    "quantity":1,
+                                    "MRP":110,
+                                    "img":"classmatelongbooksinglelinehardbond240pagesjpeg"
+                        
+                                },
+                                {
+                                    "name":"classmatelongbooksinglelinesoftbond400pages",
+                                    "price":90,
+                                    "quantity":1,
+                                    "MRP":100,
+                                    "img":"classmatelongbooksinglelinesoftbond400pagesjpeg"
+                        
+                                },
+                                {
+                                    "name":"classmatelongbooksinglelinesoftbond300pages",
+                                    "price":68,
+                                    "quantity":1,
+                                    "MRP":75,
+                                    "img":"classmatelongbooksinglelinesoftbond300pagesjpeg"
+                        
+                                },
+
+                                {
+                                    "name":"classmatelongbooksinglelinesoftbond256pages",
+                                    "price":55,
+                                    "quantity":1,
+                                    "MRP":60,
+                                    "img":"classmatelongbooksinglelinesoftbond256pagesjpeg"
+                        
+                                },
+                                {
+                                    "name":"classmatelongbooksinglelinesoftbond172pages",
+                                    "price":40,
+                                    "quantity":1,
+                                    "MRP":45,
+                                    "img":"classmatelongbooksinglelinesoftbond172pagesjpeg"
+                        
+                                },
+                                {
+                                    "name":"classmatelongbooksinglelinesoftbond120pages",
+                                    "price":27,
+                                    "quantity":1,
+                                    "MRP":30,
+                                    "img":"classmatelongbooksinglelinesoftbond120pagesjpeg"
+                        
+                                },
+                                {
+                                    "name":"classmatelongbooksinglelinesoftbond72pages",
+                                    "price":18,
+                                    "quantity":1,
+                                    "MRP":20,
+                                    "img":"classmatelongbooksinglelinesoftbond72pagesjpeg"
+                        
+                                },
+                            ]
+                                [
+                                    "ClassmateA4sizelongbooks272X167 "
+
+                                    {
+                                        "name":"classmatelongbooksinglelinehardtbond360pages",
+                                        "price":145,
+                                        "quantity":1,
+                                        "MRP":160,
+                                        "img":"classmatelongbooksinglelinehardtbond360pagesjpeg"
+                            
+                                    },
+                                    {
+                                        "name":"classmatelongbooksinglelinesoftbond400pages",
+                                        "price":125,
+                                        "quantity":1,
+                                        "MRP":140,
+                                        "img":"classmatelongbooksinglelinesofttbond400pagesjpeg"
+                            
+                                    },
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond304pages",
+                                        "price":90,
+                                        "quantity":1,
+                                        "MRP":100,
+                                        "img":"classmatelongbooksinglelinesofttbond304pagesjpeg"
+                            
+                                    },
+                                    {
+                                        "name":"classmatelongbooksinglelinehardtbond240pages",
+                                        "price":90,
+                                        "quantity":1,
+                                        "MRP":100,
+                                        "img":"classmatelongbooksinglelinehardtbond240pagesjpeg"
+                            
+                                    },
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond240pages",
+                                        "price":70,
+                                        "quantity":1,
+                                        "MRP":75,
+                                        "img":"classmatelongbooksinglelinesofttbond240pagesjpeg"
+                            
+                                    },
+
+                                   {
+                                        "name":"classmatelongbooksinglelinehardtbond160pages",
+                                        "price":65,
+                                        "quantity":1,
+                                        "MRP":70,
+                                        "img":"classmatelongbooksinglelinehardtbond160pagesjpeg"
+                            
+                                    },
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond172pages",
+                                        "price":55,
+                                        "quantity":1,
+                                        "MRP":60,
+                                        "img":"classmatelongbooksinglelinesofttbond172pagesjpeg"
+                            
+                                    },
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond140pages",
+                                        "price":45,
+                                        "quantity":1,
+                                        "MRP":50,
+                                        "img":"classmatelongbooksinglelinesofttbond140pagesjpeg"
+                            
+                                    },   
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond108pages",
+                                        "price":32,
+                                        "quantity":1,
+                                        "MRP":35,
+                                        "img":"classmatelongbooksinglelinesofttbond108pagesjpeg"
+                            
+                                    }, 
+                                    "ClassmateA4sizelongbooks314X194"
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond400pages",
+                                        "price":125,
+                                        "quantity":1,
+                                        "MRP":140,
+                                        "img":"classmatelongbooksinglelinesofttbond400pagesjpeg"
+                            
+                                    }, 
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond240pages",
+                                        "price":70,
+                                        "quantity":1,
+                                        "MRP":75,
+                                        "img":"classmatelongbooksinglelinesofttbond240pagesjpeg"
+                            
+                                    }, 
+                                    {
+                                        "name":"classmatelongbooksinglelinesofttbond92pages",
+                                        "price":27,
+                                        "quantity":1,
+                                        "MRP":30,
+                                        "img":"classmatelongbooksinglelinesofttbond92pagesjpeg"
+                            
+        ]}, 
+                                    
+
+
+                        [
+                            "classmatenotebook " 
+                            {
+                                "name":"classmatenotebookssingleline172hardbondpages",
+                                "price":45,
+                                "quantity":1,
+                                "MRP":50,
+                                "img":"classmatenotebookssinglelinehardbond172pagesjpeg"
+                    
+                            },
+
+                            {
+                                "name":"classmatenotebookssinglelinesoftbond240pages",
+                                "price":50,
+                                "quantity":1,
+                                "MRP":55,
+                                "img":"classmatenotebookssinglelinesoftbond240pagesjpeg"
+                    
+                            },
+
+
+                            
+                            
+                            {"Graphbook "
+                            [ 
+                         {
+                        "name":"camlinsamllgraphbooka28pages",
+                        "price":8,
+                        "quantity":1,
+                        "MRP":10,
+                        "img":"camlinsamllgraphbooka28pagespng"
+            
+                    },
+                    {
+                        "name":"camlinbiggraphbooka28pages",
+                        "price":18,
+                        "quantity":1,
+                        "MRP":20,
+                        "img":"camlinbiggraphbooka28pagespng"
+            
+                    },
+
+
+
+                    
