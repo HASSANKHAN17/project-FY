@@ -145,7 +145,7 @@ const Home = (props) => {
 
 
         <div className="brief">
-            <h2>Brief About Alpine Stationery</h2>
+            <h2>Brief About Alpine </h2>
             <p>
                 Alpine Stationery is an aurangabad based e-commerce store which
                 provides delivery within a day to the residents of aurangabad
