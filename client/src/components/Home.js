@@ -103,7 +103,7 @@ const Home = (props) => {
         </div>
 
         <div className="trendingitemsdiv">
-            <h2>High on Discount</h2>
+            <h2>Discount items</h2>
             <div className="row countRow ">
                 
                 {
